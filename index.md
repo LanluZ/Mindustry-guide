@@ -2,38 +2,53 @@
 
 ---
 
-你可以在这个网页上阅读或者下载到响应的逻辑
+你可以在这个网页上阅读或者下载到对应的逻辑
 也可以进入 [GitHub](https://github.com/LanluZ/Mindustry-guide) 查看
 本文档需要有一定的Logic基础或者编程基础
 
-### 
+---
+## 逻辑语法
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 内存操作
 
-```markdown
-Syntax highlighted code block
+- [Read](https://lanluz.github.io/Mindustry-guide/read.md)
+- [Write](https://lanluz.github.io/Mindustry-guide/write.md)
+- [Draw](https://lanluz.github.io/Mindustry-guide/draw.md)
+- [Print](https://lanluz.github.io/Mindustry-guide/print.md)
 
-# Header 1
-## Header 2
-### Header 3
+### 方块控制
 
-- Bulleted
-- List
+- Draw Flush
+- Print Flush
+- Get Link
+- Control
+- Rader
+- Sensor
 
-1. Numbered
-2. List
+### 变量运算
 
-**Bold** and _Italic_ and `Code` text
+- [Set](https://lanluz.github.io/Mindustry-guide/set.md)
+- [Operation](https://lanluz.github.io/Mindustry-guide/operation.md)
 
-[Link](url) and ![Image](src)
-```
+### 流程控制
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- End
+- Jump
 
-### Jekyll Themes
+### 单位控制
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LanluZ/Wiki/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Unit Bind
+- Unit Control
+- Unit Radar
+- Unit Locate
 
-### Support or Contact
+### 反馈
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+您如果有任何建议都可以反馈到这个邮箱
+LanluZ@foxmail.com
+
+### 特别鸣谢
+
+排名不分先后
+
+    华漾emoji

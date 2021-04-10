@@ -12,17 +12,53 @@
 
 ## 逻辑语法
 
-### 
+![alt "menu"](/img/logic-menu.png)
 
-### 
+### 内存操作
 
+- Read
+- Write
+- Draw
+- Print
+
+### 方块控制
+
+- Draw Flush
+- Print Flush
+- Get Link
+- Control
+- Rader
+- Sensor
+
+### 变量运算
+
+- Set
+- Operation
+
+### 流程控制
+
+- End
+- Jump
+
+### 单位控制
+
+- Unit Bind
+- Unit Control
+- Unit Radar
+- Unit Locate
 
 ---
 
-## 逻辑分享(点击下载)
+## 逻辑方块
+
+---
+
+## 逻辑分享 (点击下载)
+
+    如果下载不成功请检查是否被拦截
 
 ### 华漾Emoji
 
-1. [点阵神风轰炸机_Emoji改](https://github.com/LanluZ/Mindustry-guide/blob/main/Player-Share/%E5%8D%8E%E6%BC%BEEmoji/%E7%82%B9%E9%98%B5%E7%A5%9E%E9%A3%8E%E8%BD%B0%E7%82%B8%E6%9C%BA_Emoji%E6%94%B9.Emoji%E6%94%B9?raw=true)
+1. [点阵神风轰炸机_Emoji改](https://github.com/LanluZ/Mindustry-guide/blob/main/Player-Share/%E5%8D%8E%E6%BC%BEEmoji/%E7%82%B9%E9%98%B5%E7%A5%9E%E9%A3%8E%E8%BD%B0%E7%82%B8%E6%9C%BA_Emoji%E6%94%B9.msch?raw=true)
 
 
