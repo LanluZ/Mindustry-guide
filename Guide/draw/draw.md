@@ -12,10 +12,10 @@
 
 |方法|描述|例子|结果|逻辑代码|
 |-- |-- |-- |-- |-- |
-|clear|用一个颜色充满屏幕|clear r 0 g 255 b 0|![alt clear](/Guide/img/clear.png)|draw clear 0 255 0 0 0 0|
-|color|为下一条语句设置颜色(单独使用无作用)rgba a是透明度|color r 255 g 255 b 0 a 200|![alt color](/Guide/img/color.png)具体作用于这根线|draw color 255 255 0 200 0 0|
-|stroke|为下一条划线语句设置线宽(单独使用无作用)|stroke 10|![alt color](/Guide/img/stroke.png)|draw stroke 10 255 0 200 0 0|
-|line|画一根线xy为起始坐标 x2y2为终止坐标|line x 0 y 0 x2 999 y2 999|![alt color](/Guide/img/line.png)|draw line 0 0 999 999 0 0|
+|clear|用一个颜色充满屏幕|clear r 0 g 255 b 0|![clear](Guide/img/clear.png)|draw clear 0 255 0 0 0 0|
+|color|为下一条语句设置颜色(单独使用无作用)rgba a是透明度|color r 255 g 255 b 0 a 200|![color](Guide/img/color.png)具体作用于这根线|draw color 255 255 0 200 0 0|
+|stroke|为下一条划线语句设置线宽(单独使用无作用)|stroke 10|![color](Guide/img/stroke.png)|draw stroke 10 255 0 200 0 0|
+|line|画一根线xy为起始坐标 x2y2为终止坐标|line x 0 y 0 x2 999 y2 999|![color](Guide/img/line.png)|draw line 0 0 999 999 0 0|
 |rect|下周更新，嘤||||
 |lineRect|||||
 |poly|||||
@@ -27,15 +27,15 @@
 
 游戏内部
 ```
-    Print val
+
 ```
 Mindustry
 ```
-    print val
+
 ```
 java
 ```java
-    system.out.print(val);//比Mindustry多了一条Print flush语句
+
 ```
 
 [返回](https://lanluz.github.io/Mindustry-guide/)
