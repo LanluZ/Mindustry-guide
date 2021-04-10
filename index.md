@@ -44,6 +44,14 @@
 - Unit Radar
 - Unit Locate
 
+---
+
+## 下载
+
+#### 华漾Emoji
+
+1. [点阵神风轰炸机_Emoji改](https://github.com/LanluZ/Mindustry-guide/Guide/blob/main/Player-Share/%E5%8D%8E%E6%BC%BEEmoji/%E7%82%B9%E9%98%B5%E7%A5%9E%E9%A3%8E%E8%BD%B0%E7%82%B8%E6%9C%BA_Emoji%E6%94%B9.msch?raw=true)
+
 ### 反馈
 
 您如果有任何建议都可以反馈到这个邮箱
