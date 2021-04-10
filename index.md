@@ -13,10 +13,10 @@
 
 ### 内存操作
 
-- [Read](https://lanluz.github.io/Mindustry-guide/Guide/read.html)
-- [Write](https://lanluz.github.io/Mindustry-guide/Guide/write.html)
-- [Draw](https://lanluz.github.io/Mindustry-guide/Guide/draw.html)
-- [Print](https://lanluz.github.io/Mindustry-guide/Guide/print.html)
+- [Read](https://lanluz.github.io/Mindustry-guide/Guide/read/read.html)
+- [Write](https://lanluz.github.io/Mindustry-guide/Guide/write/write.html)
+- [Draw](https://lanluz.github.io/Mindustry-guide/Guide/draw/draw.html)
+- [Print](https://lanluz.github.io/Mindustry-guide/Guide/print/print.html)
 
 ### 方块控制
 
