@@ -16,10 +16,10 @@
 
 ### 内存操作
 
-- Read
-- Write
-- Draw
-- Print
+- [Read](https://lanluz.github.io/Mindustry-guide/read.md)
+- [Write](https://lanluz.github.io/Mindustry-guide/write.md)
+- [Draw](https://lanluz.github.io/Mindustry-guide/draw.md)
+- [Print](https://lanluz.github.io/Mindustry-guide/print.md)
 
 ### 方块控制
 
@@ -32,8 +32,8 @@
 
 ### 变量运算
 
-- Set
-- Operation
+- [Set](https://lanluz.github.io/Mindustry-guide/set.md)
+- [Operation](https://lanluz.github.io/Mindustry-guide/operation.md)
 
 ### 流程控制
 

@@ -3,7 +3,9 @@
 ---
 
 你可以在这个网页上阅读或者下载到对应的逻辑
+
 也可以进入 [GitHub](https://github.com/LanluZ/Mindustry-guide) 查看
+
 本文档需要有一定的Logic基础或者编程基础
 
 ---
