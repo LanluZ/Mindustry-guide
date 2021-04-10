@@ -20,7 +20,7 @@
 
 - 下表例子为游戏内语法,结果为val
 - 下表中括号内为boolean或二进制数据(0b)
-- sin cos tan 因为算法原因无法过于精确
+- sin cos tan angle 因为算法原因无法过于精确
 
 |符号|解释|例子|结果|
 |-- |-- |-- |-- |
@@ -47,9 +47,9 @@
 |Flip|反位|val = Flip 5(0b101)|2(0b010)|
 |max|最大|val = max 1 2|2|
 |min|最小|val = min 1 2|1|
-|angle||||
+|angle|求矢量角度|val = angle 1 1|45.2376(45°)|
 |len|模长|val = len 1 1|1.414(√2)|
-|noise|二维单纯形噪声|||
+|noise|二维单纯形噪声|val = noise 0 1|-0.4950|
 |abs|绝对值|val = abs -1|1|
 |log|ln( )|val = log 100|4.605|
 |log10|lg( )|val = log10 100|2|
@@ -61,20 +61,21 @@
 |sqrt|开方|val = sqrt|1.414(√2)|
 |rand|随机|val = rand 1|随机0~1的小数|
 
-**语|||||法**
+**语法**
 
 游戏内部
 ```
-    val = num
+    见上表
 ```
 Mindustry
 ```
-    set val num
+    op mul val num1 num2
+    op land val num1 num2
 ```
 java
 ```java
-    int val = num;
-    long long val = num;
-    String val = "Hello World";
+    int val = num1 * num2;
+    boolean val = num1 && num2
 ```
 
+[返回](https://lanluz.github.io/Mindustry-guide/)

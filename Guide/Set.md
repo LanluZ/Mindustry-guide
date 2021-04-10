@@ -31,3 +31,5 @@ java
     String val = "Hello World";
 ```
 p.s.赋值String时要加""否则为null
+
+https://lanluz.github.io/Mindustry-guide/
