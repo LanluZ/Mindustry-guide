@@ -16,7 +16,7 @@
 
 **方法**
 
-![operation](guide/img/operation.png)
+![operation](img/operation.png)
 
 - 下表例子为游戏内语法,结果为val
 - 下表中括号内为boolean或二进制数据(0b)
@@ -78,4 +78,4 @@ java
     boolean val = num1 && num2
 ```
 
-[返回](https://lanluz.github.io/Mindustry-guide/)
+[返回](https://lanluz.github.io/Mindustry-)
