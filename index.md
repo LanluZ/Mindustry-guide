@@ -29,8 +29,8 @@
 
 ### 变量运算
 
-- [Set](https://lanluz.github.io/Mindustry-guide/Guide/set.html)
-- [Operation](https://lanluz.github.io/Mindustry-guide/Guide/operation.html)
+- [Set](https://lanluz.github.io/Mindustry-guide/Guide/set/set.html)
+- [Operation](https://lanluz.github.io/Mindustry-guide/Guide/operation/operation.html)
 
 ### 流程控制
 
