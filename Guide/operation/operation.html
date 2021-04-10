@@ -289,6 +289,7 @@ pre[data-line] .line-highlight[data-end]:after {
 <th>&#x89E3;&#x91CA;</th>
 <th>&#x4F8B;&#x5B50;</th>
 <th>&#x7ED3;&#x679C;</th>
+<th>&#x903B;&#x8F91;&#x4EE3;&#x7801;</th>
 </tr>
 </thead>
 <tbody>
@@ -297,216 +298,252 @@ pre[data-line] .line-highlight[data-end]:after {
 <td>&#x52A0;&#x6CD5;</td>
 <td>val = 1 + 1</td>
 <td>2</td>
+<td>add</td>
 </tr>
 <tr>
 <td>-</td>
 <td>&#x51CF;&#x6CD5;</td>
 <td>val = 1 - 1</td>
 <td>0</td>
+<td>sub</td>
 </tr>
 <tr>
 <td>*</td>
 <td>&#x4E58;&#x6CD5;</td>
 <td>val = 2 * 3</td>
 <td>6</td>
+<td>mul</td>
 </tr>
 <tr>
 <td>/</td>
 <td>&#x9664;&#x6CD5;</td>
 <td>val = 1 / 2</td>
 <td>0.5</td>
+<td>div</td>
 </tr>
 <tr>
 <td>//</td>
 <td>&#x6574;&#x9664;</td>
 <td>val = 9 / 2</td>
 <td>4</td>
+<td>idiv</td>
 </tr>
 <tr>
 <td>%</td>
 <td>&#x4F59;&#x6570;</td>
 <td>val = 13 % 5</td>
 <td>3</td>
+<td>mod</td>
 </tr>
 <tr>
 <td>^</td>
 <td>&#x5E42;&#x6570;</td>
 <td>val = 5 ^ 2</td>
 <td>25</td>
+<td>pow</td>
 </tr>
 <tr>
 <td>==</td>
 <td>&#x7B49;&#x4E8E;</td>
 <td>val = 1 == 2</td>
 <td>0(false)</td>
+<td>equal</td>
 </tr>
 <tr>
 <td>not</td>
 <td>&#x4E0D;&#x7B49;&#x4E8E;</td>
 <td>val = 1 not 2</td>
 <td>1(true)</td>
+<td>notEqual</td>
 </tr>
 <tr>
 <td>and</td>
 <td>&#x903B;&#x8F91;&#x4E0E;</td>
 <td>val  = 1 and 0</td>
 <td>0(false)</td>
+<td>land</td>
 </tr>
 <tr>
 <td>&lt;</td>
 <td>&#x5C0F;&#x4E8E;</td>
 <td>val = 1 &lt; 2</td>
 <td>1(true)</td>
+<td>lessThan</td>
 </tr>
 <tr>
 <td>&lt;=</td>
 <td>&#x5C0F;&#x4E8E;&#x7B49;&#x4E8E;</td>
 <td>val = 1 &lt;= 1</td>
 <td>1(true)</td>
+<td>lessThanEq</td>
 </tr>
 <tr>
 <td>&gt;</td>
 <td>&#x5927;&#x4E8E;</td>
 <td>val = 1 &gt; 2</td>
 <td>0(false)</td>
+<td>greaterThan</td>
 </tr>
 <tr>
 <td>&gt;=</td>
 <td>&#x5927;&#x4E8E;&#x7B49;&#x4E8E;</td>
 <td>val = 1 &gt;= 1</td>
 <td>1(true)</td>
+<td>greaterThanEq</td>
 </tr>
 <tr>
 <td>===</td>
 <td>&#x5168;&#x540C;</td>
 <td>val = 1 === null</td>
 <td>0(false)</td>
+<td>strictEqual</td>
 </tr>
 <tr>
 <td>&lt;&lt;</td>
 <td>&#x5DE6;&#x79FB;</td>
 <td>val = 1(0b000001) &lt;&lt; 5</td>
 <td>32(0b100000)</td>
+<td>shl</td>
 </tr>
 <tr>
 <td>&gt;&gt;</td>
 <td>&#x53F3;&#x79FB;</td>
 <td>val = 7(0b111) &gt;&gt; 2</td>
 <td>1(0b001)</td>
+<td>shr</td>
 </tr>
 <tr>
 <td>or</td>
 <td>&#x4F4D;&#x6216;</td>
 <td>val = 5(0b101) or 2(0b010)</td>
 <td>7(0b111)</td>
+<td>or</td>
 </tr>
 <tr>
 <td>b-and</td>
 <td>&#x4F4D;&#x4E0E;</td>
 <td>val = 5(0b101) b-and 3(0b011)</td>
 <td>1(0b001)</td>
+<td>and</td>
 </tr>
 <tr>
 <td>xor</td>
 <td>&#x5F02;&#x6216;</td>
 <td>val = 5(0b101) xor 3(0b011)</td>
 <td>6(0b110)</td>
+<td>xor</td>
 </tr>
 <tr>
 <td>Flip</td>
 <td>&#x53CD;&#x4F4D;</td>
 <td>val = Flip 5(0b101)</td>
 <td>2(0b010)</td>
+<td>not</td>
 </tr>
 <tr>
 <td>max</td>
 <td>&#x6700;&#x5927;</td>
 <td>val = max 1 2</td>
 <td>2</td>
+<td>max</td>
 </tr>
 <tr>
 <td>min</td>
 <td>&#x6700;&#x5C0F;</td>
 <td>val = min 1 2</td>
 <td>1</td>
+<td>min</td>
 </tr>
 <tr>
 <td>angle</td>
 <td>&#x6C42;&#x77E2;&#x91CF;&#x89D2;&#x5EA6;</td>
 <td>val = angle 1 1</td>
 <td>45.2376(45&#xB0;)</td>
+<td>angle</td>
 </tr>
 <tr>
 <td>len</td>
 <td>&#x6A21;&#x957F;</td>
 <td>val = len 1 1</td>
 <td>1.414(&#x221A;2)</td>
+<td>len</td>
 </tr>
 <tr>
 <td>noise</td>
 <td>&#x4E8C;&#x7EF4;&#x5355;&#x7EAF;&#x5F62;&#x566A;&#x58F0;</td>
 <td>val = noise 0 1</td>
 <td>-0.4950</td>
+<td>noise</td>
 </tr>
 <tr>
 <td>abs</td>
 <td>&#x7EDD;&#x5BF9;&#x503C;</td>
 <td>val = abs -1</td>
 <td>1</td>
+<td>abs</td>
 </tr>
 <tr>
 <td>log</td>
 <td>ln( )</td>
 <td>val = log 100</td>
 <td>4.605</td>
+<td>log</td>
 </tr>
 <tr>
 <td>log10</td>
 <td>lg( )</td>
 <td>val = log10 100</td>
 <td>2</td>
+<td>log10</td>
 </tr>
 <tr>
 <td>sin</td>
 <td>&#x6B63;&#x5F26;</td>
 <td>val = sin 30</td>
 <td>0.4999(1/2)</td>
+<td>sin</td>
 </tr>
 <tr>
 <td>cos</td>
 <td>&#x4F59;&#x5F26;</td>
 <td>val = cos 60</td>
 <td>0.5001(1/2)</td>
+<td>cos</td>
 </tr>
 <tr>
 <td>tan</td>
 <td>&#x6B63;&#x5207;</td>
 <td>val = tan 45</td>
 <td>0.9999(1)</td>
+<td>tan</td>
 </tr>
 <tr>
 <td>Floor</td>
 <td>&#x5411;&#x4E0B;&#x53D6;&#x6574;</td>
 <td>val = Floor 0.9</td>
 <td>0</td>
+<td>floor</td>
 </tr>
 <tr>
 <td>ceil</td>
 <td>&#x5411;&#x4E0A;&#x53D6;&#x6574;</td>
 <td>val = ceil 0.1</td>
 <td>1</td>
+<td>ceil</td>
 </tr>
 <tr>
 <td>sqrt</td>
 <td>&#x5F00;&#x65B9;</td>
 <td>val = sqrt</td>
 <td>1.414(&#x221A;2)</td>
+<td>sqrt</td>
 </tr>
 <tr>
 <td>rand</td>
 <td>&#x968F;&#x673A;</td>
 <td>val = rand 1</td>
 <td>&#x968F;&#x673A;0~1&#x7684;&#x5C0F;&#x6570;</td>
+<td>rand</td>
 </tr>
 </tbody>
 </table>
