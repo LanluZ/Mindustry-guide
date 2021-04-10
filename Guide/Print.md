@@ -1,12 +1,10 @@
-## Mindustry Logic 中文手册
+## Welcome to GitHub Pages
 
----
+You can use the [editor on GitHub](https://github.com/LanluZ/Wiki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-你可以在这个网页上阅读或者下载到响应的逻辑
-也可以进入 [GitHub](https://github.com/LanluZ/Mindustry-guide) 查看
-本文档需要有一定的Logic基础或者编程基础
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
