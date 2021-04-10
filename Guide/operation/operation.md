@@ -16,7 +16,7 @@
 
 **方法**
 
-![operation](/Guide/img/operation.png)
+![operation](/Mindustry-guide/Guide/img/operation.png)
 
 - 下表例子为游戏内语法,结果为val
 - 下表中括号内为boolean或二进制数据(0b)
