@@ -20,6 +20,7 @@
 
 - 这条语句一般放在最开始用于刷新绘图板
 - 接受参数
+
     R (红) 范围 0~255
     G (绿) 范围 0~255
     B (蓝) 范围 0~255
@@ -33,6 +34,7 @@
 |color|为下一条语句设置颜色|![color](/Mindustry-guide/Guide/example/color.png)|![color](/Mindustry-guide/Guide/img/color.png)|否|
 
 - 接受参数
+
     R   (红)    范围 0~255
     G   (绿)    范围 0~255
     B   (蓝)    范围 0~255
@@ -45,6 +47,7 @@
 |stroke|为下一条划线语句设置线宽(单独使用无作用)|![stroke](/Mindustry-guide/Guide/example/stroke.png)|![stroke](/Mindustry-guide/Guide/img/stroke.png)|否|
 
 - 接受参数
+
     (宽度)
 
 **line**
@@ -54,6 +57,7 @@
 |line|画一根线xy为起始坐标 x2y2为终止坐标|![line](/Mindustry-guide/Guide/example/line.png)|![line](/Mindustry-guide/Guide/img/line.png)|是|
 
 - 接受参数
+
     X   (起始x)
     Y   (起始y)
     X1  (终止x)
@@ -66,6 +70,7 @@
 |rect|矩形填充|![rect](/Mindustry-guide/Guide/example/rect.png)|![rect](/Mindustry-guide/Guide/img/rect.png)|是|
 
 - 接受参数
+
     X   (矩形左下角x)
     Y   (矩形左下角y)
     width   (矩形宽)
@@ -78,6 +83,7 @@
 |lineRect|矩形框架|![rect](/Mindustry-guide/Guide/example/lineRect.png)|![rect](/Mindustry-guide/Guide/img/lineRect.png)|是|
 
 - 接受参数
+
     X   (矩形左下角x)
     Y   (矩形左下角y)
     width   (矩形宽)
@@ -90,6 +96,7 @@
 |poly|正多边形填充|![ploy](/Mindustry-guide/Guide/example/poly.png)|![ploy](/Mindustry-guide/Guide/img/poly.png)|是|
 
 - 接受参数
+
     X   重心x
     Y   重心y
     sides   边数
@@ -103,6 +110,7 @@
 |linePoly|多边形框架|![linePoly](/Mindustry-guide/Guide/example/linePoly.png)|![linePoly](/Mindustry-guide/Guide/img/linePoly.png)|是|
 
 - 接受参数
+
     X   重心x
     Y   重心y
     sides   边数
@@ -116,6 +124,7 @@
 |triangle|三角形填充|![triangle](/Mindustry-guide/Guide/example/triangle.png)|![triangle](/Mindustry-guide/Guide/img/triangle.png)|是|
 
 - 接受参数
+
     X   顶点坐标一
     Y   顶点坐标一
     X2  顶点坐标二
@@ -132,6 +141,7 @@
 - 载入游戏内图片
 - image参数用 "@"+游戏内物品名称表示
 - 接受参数
+
     X   坐标x
     Y   坐标y
     image   图片

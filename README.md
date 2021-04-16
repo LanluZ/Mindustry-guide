@@ -11,7 +11,7 @@
 
 ## 逻辑语法
 
-!["menu"](/img/logic-menu.png)
+!["menu"](/Mindustry-guide/img/logic-menu.png)
 
 ### 内存操作
 
@@ -23,10 +23,10 @@
 ### 方块控制
 
 - Draw Flush
-- Print Flush
+- [Print Flush](https://lanluz.github.io/Mindustry-guide/Guide/printFlush.html)
 - Get Link
 - Control
-- Rader
+- [Rader](https://lanluz.github.io/Mindustry-guide/Guide/radar.html)
 - Sensor
 
 ### 变量运算
