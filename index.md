@@ -24,7 +24,7 @@
 - [Print Flush](https://lanluz.github.io/Mindustry-guide/Guide/printFlush/printFlush.html)
 - Get Link
 - Control
-- [Rader](https://lanluz.github.io/Mindustry-guide/Guide/radar/radar.html)
+- [Radar](https://lanluz.github.io/Mindustry-guide/Guide/radar/radar.html)
 - Sensor
 
 ### 变量运算
