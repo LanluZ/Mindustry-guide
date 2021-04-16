@@ -15,18 +15,18 @@
 
 ### 内存操作
 
-- [Read](https://lanluz.github.io/Mindustry-guide/Guide/read.html)
-- [Write](https://lanluz.github.io/Mindustry-guide/Guide/write.html)
-- [Draw](https://lanluz.github.io/Mindustry-guide/Guide/draw.html)
-- [Print](https://lanluz.github.io/Mindustry-guide/Guide/print.html)
+- [Read](https://lanluz.github.io/Mindustry-guide/Guide/read/read.html)
+- [Write](https://lanluz.github.io/Mindustry-guide/Guide/write/write.html)
+- [Draw](https://lanluz.github.io/Mindustry-guide/Guide/draw/draw.html)
+- [Print](https://lanluz.github.io/Mindustry-guide/Guide/print/print.html)
 
 ### 方块控制
 
 - Draw Flush
-- [Print Flush](https://lanluz.github.io/Mindustry-guide/Guide/printFlush.html)
+- [Print Flush](https://lanluz.github.io/Mindustry-guide/Guide/printFlush/printFlush.html)
 - Get Link
 - Control
-- [Rader](https://lanluz.github.io/Mindustry-guide/Guide/radar.html)
+- [Rader](https://lanluz.github.io/Mindustry-guide/Guide/radar/radar.html)
 - Sensor
 
 ### 变量运算
