@@ -20,9 +20,9 @@
 
 ### 方块控制
 
-- Draw Flush
+- [Draw Flush](https://lanluz.github.io/Mindustry-guide/Guide/drawFlush/drawFlush.html)
 - [Print Flush](https://lanluz.github.io/Mindustry-guide/Guide/printFlush/printFlush.html)
-- Get Link
+- [Get Link](https://lanluz.github.io/Mindustry-guide/Guide/getLink/getLink.html)
 - Control
 - [Radar](https://lanluz.github.io/Mindustry-guide/Guide/radar/radar.html)
 - Sensor
@@ -34,8 +34,8 @@
 
 ### 流程控制
 
-- End
-- Jump
+- [End](https://lanluz.github.io/Mindustry-guide/Guide/end/end.html)
+- [Jump](https://lanluz.github.io/Mindustry-guide/Guide/jump/jump.html)
 
 ### 单位控制
 
