@@ -8,7 +8,7 @@
 
 **使用例**
 
-![逻辑内部](/Mindustry-guide/Guide/img/end.png)
+![逻辑内部](/Mindustry-guide/Guide/example/end.png)
 
 由于第三条语句出现end
 
