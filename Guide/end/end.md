@@ -6,7 +6,7 @@
 
     跳转语句 回到逻辑顶部
 
-**使用例**
+**实例**
 
 ![逻辑内部](/Mindustry-guide/Guide/example/end.png)
 
@@ -18,7 +18,7 @@
 
 ![结果](/Mindustry-guide/Guide/img/end.png)
 
-**语法**
+**实例**
 
 游戏内部
 ```
