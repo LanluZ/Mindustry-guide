@@ -25,9 +25,9 @@
 - [Draw Flush](https://lanluz.github.io/Mindustry-guide/Guide/drawFlush/drawFlush.html)
 - [Print Flush](https://lanluz.github.io/Mindustry-guide/Guide/printFlush/printFlush.html)
 - [Get Link](https://lanluz.github.io/Mindustry-guide/Guide/getLink/getLink.html)
-- [Control](https://lanluz.github.io/Mindustry-guide/Guide/radar/control.html)
+- [Control](https://lanluz.github.io/Mindustry-guide/Guide/control/control.html)
 - [Radar](https://lanluz.github.io/Mindustry-guide/Guide/radar/radar.html)
-- Sensor
+- [Sensor](https://lanluz.github.io/Mindustry-guide/Guide/sensor/sensor.html)
 
 ### 变量运算
 

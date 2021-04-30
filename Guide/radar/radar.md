@@ -35,19 +35,17 @@
 
 **order**
 
-描述：相当于逻辑非
-
-1. 默认为1，反选为0.
+描述：选择第order个通过sort排序出的单位
 
 ---
 
 **sort**
 
-描述：选出在雷达范围内带有指定特征的单位
+描述：安装某种特征排序在雷达范围内单位
 
 1. distance     最近距离者
 2. health       最高生命者
-3. shield       盾者
+3. shield       护盾者
 4. armor        最高护甲者
 5. maxHealth    最大生命上限者
 
@@ -70,8 +68,6 @@
 3. 获取 result 的 y坐标(@y) 赋给 y
 4. 控制 设置 shoot(射击) 关于 lancer1 于坐标 x y 射击开关 1(真)
 
-- 如果 order 为 0 则为不选择enemy(敌人)
-
 结果：(跨范围射击)
 ![超出范围射击](/Mindustry-guide/Guide/img/radar.png)
 
@@ -91,6 +87,5 @@ Mindustry
     control shoot lancer1 x y 1 0
 ```
 
-p.s.此语句要与print flush配合使用
 
 [返回](https://lanluz.github.io/Mindustry-guide/)
