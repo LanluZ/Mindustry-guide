@@ -31,6 +31,8 @@
 
 ![page3_2](/Mindustry-guide/Guide/img/page3_2.png)
 
+善用 Ctrl+f 快速查找到你需要的信息
+
 |方法|描述|
 |---|---|
 |@totalItems|获取这个建筑物/单位内的所有物品的总计数量|
@@ -54,8 +56,28 @@
 |@rotation|获取这个建筑物/单位的旋转角度|
 |@x|获取这个建筑物/单位的x坐标|
 |@y|获取这个建筑物/单位的y坐标|
-|未完|等五一有时间再更新|
-
+|@shootX|获取这个建筑物/单位的射击x坐标|
+|@shootY|获取这个建筑物/单位的射击y坐标|
+|@size|获取这个建筑物/单位的大小(正方形边长大小)|
+|@dead|获取这个建筑物/单位是否失效(被摧毁返回1 有效返回0)|
+|@range|获取这个建筑物/单位的攻击范围|
+|@shooting|获取这个建筑物/单位的攻击状态(开火返回1 停火返回0)|
+|@boosting|获取这个单位的飞行状态|
+|@mineX|获取这个单位的挖矿x坐标|
+|@mineY|获取这个单位的挖矿y坐标|
+|@mining|获取这个单位的挖矿状态|
+|@team|获取这个建筑物/单位的阵营|
+|@type|返回这个建筑物/单位的类型|
+|@flag|返回这个建筑物/单位的数字标记|
+|@controlled|返回这个建筑物/单位的被控制对象(处理器返回@ctrlProcessor 玩家返回@ctrlPlayer 编队返回@ctrlFormation 如果都不是返回0)|
+|@controller||
+|@commanded|不建议使用 将被移除 使用controlled替代它|
+|@name||
+|@config||
+|@payloadCount||
+|@payloadType||
+|@enabled|获取这个建筑物/单位的开启状态|
+|@configure|获取这个建筑物的配置(常用于分类器)|
 
 **实例**
 
