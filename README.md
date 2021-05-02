@@ -41,10 +41,10 @@
 
 ### 单位控制
 
-- Unit Bind
-- Unit Control
-- Unit Radar
-- Unit Locate
+- [Unit Bind](https://lanluz.github.io/Mindustry-guide/Guide/unitBind/unitBind.html)
+- [Unit Control](https://lanluz.github.io/Mindustry-guide/Guide/unitCoutrol/unitCoutrol.html)
+- [Unit Radar](https://lanluz.github.io/Mindustry-guide/Guide/unitRadar/unitRadar.html)
+- [Unit Locate](https://lanluz.github.io/Mindustry-guide/Guide/unitLocate/unitLocate.html)
 
 ---
 

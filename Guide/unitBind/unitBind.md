@@ -8,25 +8,25 @@
         
 **方法**
 
-![图片填充]()
+![图片填充](/Mindustry-guide/Guide/example/unitBind.png)
+
+绑定poly单位
 
 ---
 
 **语法**
 
+接受一个单位
+
 **实例**
 
 游戏内部
 ```
-
+同上
 ```
 Mindustry
 ```
-
-```
-java
-```java
-
+ubind @poly
 ```
 
 [返回](https://lanluz.github.io/Mindustry-guide/)
