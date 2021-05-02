@@ -69,10 +69,10 @@
 |@team|获取这个建筑物/单位的阵营|
 |@type|返回这个建筑物/单位的类型|
 |@flag|返回这个建筑物/单位的数字标记|
-|@controlled|返回这个建筑物/单位的被控制对象(处理器返回@ctrlProcessor 玩家返回@ctrlPlayer 编队返回@ctrlFormation 如果都不是返回0)|
+|@controlled|返回这个建筑物/单位是否被控制(处理器返回1 玩家返回2 编队返回3 如果都不是返回0)|
 |@controller|返回一个单位的控制者(如果是处理器返回processor 编队返回 leader 如果都不是返回 itself)|
 |@commanded|不建议使用 将被移除 使用controlled替代它|
-|@name|获取单位的名字|
+|@name|获取这个建筑物/单位的玩家名字|
 |@config|获取这个单位的配置(如工厂生产的物品)|
 |@payloadCount|获取单位的载荷数量|
 |@payloadType|获取单位的载荷类型|
