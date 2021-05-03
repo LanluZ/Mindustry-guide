@@ -6,6 +6,7 @@
 
 也可以进入 [GitHub](https://github.com/LanluZ/Mindustry-guide) 查看
 
+[TOC]
 
 ---
 
