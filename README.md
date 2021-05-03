@@ -14,7 +14,7 @@
 ![逻辑方块](/Mindustry-guide/img/logic-block.png)
 
 - 从左到右
-- 在Mindutry中索引从0开始
+- 在Mindustry中索引从0开始
 
 |方块|描述|特点|需要|
 |-|-|-|-|
@@ -28,6 +28,8 @@
 |Logic Display|图形显示|显示范围80x80|无|
 |Large Logic Display|大型图形显示|显示范围176x176|无|
 
+
+
 ---
 
 ## 逻辑指令
@@ -40,6 +42,7 @@
 |[Print](https://lanluz.github.io/Mindustry-guide/Guide/print/print.html)|[Control](https://lanluz.github.io/Mindustry-guide/Guide/control/control.html)|||[Unit Locate](https://lanluz.github.io/Mindustry-guide/Guide/unitLocate/unitLocate.html)|
 ||[Radar](https://lanluz.github.io/Mindustry-guide/Guide/radar/radar.html)||||
 ||[Sensor](https://lanluz.github.io/Mindustry-guide/Guide/sensor/sensor.html)||||
+
 
 ---
 

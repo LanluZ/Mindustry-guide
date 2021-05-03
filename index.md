@@ -14,7 +14,7 @@
 ![逻辑方块](/Mindustry-guide/img/logic-block.png)
 
 - 从左到右
-- 在Mindutry中索引从0开始
+- 在Mindustry中索引从0开始
 
 |方块|描述|特点|需要|
 |-|-|-|-|
