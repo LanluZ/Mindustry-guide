@@ -20,7 +20,7 @@
 |-|-|-|-|
 |Micro Processor|最基本的处理单元|可以连接10个方块|无|
 |Logic Processor|处理单元|更大的范围|无|
-|Hyper Processor|大型处理单元|更大的范围|电力|
+|Hyper Processor|大型处理单元|更大的范围|冷却液|
 |Message|信息输出|输出一个信息|无|
 |Switch|开关|可以用sensor探测|无|
 |Memory cell|存储变量|可以储存64个变量|无|
