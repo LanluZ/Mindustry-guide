@@ -1,4 +1,4 @@
-## Mindustry Logic 中文手册
+## Mindustry Logic 中文手册 V0.1
 
 ---
 
@@ -11,17 +11,22 @@
 
 ## 逻辑方块
 
+![逻辑方块](/Mindustry-guide/img/logic-block.png)
+
+- 从左到右
+- 在Mindutry中索引从0开始
+
 |方块|描述|特点|需要|
 |-|-|-|-|
-|Micro Processor|最基本的处理单元|||
-|Logic Processor|处理单元|更广的范围与语句行数||
-|Hyper Processor|大型处理单元|更大的范围与语句行数|电力|
-|Message|信息输出|||
-|Switch|开关|||
-|Memory cell|存储变量|||
-|Data Bank|大型存储变量|||
-|Logic Display|图形显示|||
-|Large Logic Display|大型图形显示|||
+|Micro Processor|最基本的处理单元|可以连接10个方块|无|
+|Logic Processor|处理单元|更大的范围|无|
+|Hyper Processor|大型处理单元|更大的范围|电力|
+|Message|信息输出|输出一个信息|无|
+|Switch|开关|可以用sensor探测|无|
+|Memory cell|存储变量|可以储存64个变量|无|
+|Data Bank|大型存储变量|可以储存512个变量|无|
+|Logic Display|图形显示|显示范围80x80|无|
+|Large Logic Display|大型图形显示|显示范围176x176|无|
 
 ---
 
