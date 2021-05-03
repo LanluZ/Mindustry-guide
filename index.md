@@ -1,13 +1,3 @@
-<link href="Mindustry-guide/css/top.css" rel="stylesheet" type="text/css" /> 
-<ul id="nav"> 
-<li><a href="http://">测</a></li> 
-<li><a href="http://">测</a></li> 
-<li><a href="http://">测</a></li> 
-<li><a href="http://">测</a></li> 
-<li><a href="http://">测</a></li> 
-<li><a href="http://">测</a></li> 
-</ul> 
-
 ## Mindustry Logic 中文手册
 
 ---
