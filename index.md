@@ -396,11 +396,13 @@
 
 <details>
 
-1. 打印出 "Hello,Mindustry"
-2. 根据仓库载荷绘制出一次函数  
-3. 使用Memory cell的循环
-4. 使用jump的循环
-5. 使用@counter的循环
+<ol>
+<li>打印出 &quot;Hello,Mindustry&quot;</li>
+<li>根据仓库载荷绘制出一次函数</li>
+<li>使用Memory cell的循环</li>
+<li>使用jump的循环</li>
+<li>使用@counter的循环</li>
+</ol>
 
 </details>
 
@@ -410,8 +412,7 @@
 
 <details>
 
-#### 华漾Emoji
-
+<h4>华漾Emoji</h4>
 <ol>
 <li><a href="https://github.com/LanluZ/Mindustry-guide/blob/main/Player-Share/%E5%8D%8E%E6%BC%BEEmoji/%E7%82%B9%E9%98%B5%E7%A5%9E%E9%A3%8E%E8%BD%B0%E7%82%B8%E6%9C%BA_Emoji%E6%94%B9.msch">点阵神风轰炸机_Emoji改</a></li>
 </ol>

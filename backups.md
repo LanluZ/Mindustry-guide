@@ -89,6 +89,19 @@
 |@enabled|获取这个建筑物/单位的开启状态|
 |@configure|获取这个建筑物的配置(常用于分类器)|
 
+## 实例教学
+
+1. 打印出 "Hello,Mindustry"
+2. 根据仓库载荷绘制出一次函数  
+3. 使用Memory cell的循环
+4. 使用jump的循环
+5. 使用@counter的循环
+
+
 ## 下载
 
+#### 华漾Emoji
+
 1. [点阵神风轰炸机_Emoji改](https://github.com/LanluZ/Mindustry-guide/blob/main/Player-Share/%E5%8D%8E%E6%BC%BEEmoji/%E7%82%B9%E9%98%B5%E7%A5%9E%E9%A3%8E%E8%BD%B0%E7%82%B8%E6%9C%BA_Emoji%E6%94%B9.msch)
+
+
