@@ -41,14 +41,66 @@
 
 ## 逻辑指令
 
-|内存操作|方块控制|变量运算|流程控制|单位控制|
-|-|-|-|-|-|
-|[Read](https://lanluz.github.io/Mindustry-guide/Guide/read/read.html)|[Draw Flush](https://lanluz.github.io/Mindustry-guide/Guide/drawFlush/drawFlush.html)|[Set](https://lanluz.github.io/Mindustry-guide/Guide/set/set.html)|[End](https://lanluz.github.io/Mindustry-guide/Guide/end/end.html)|[Unit Bind](https://lanluz.github.io/Mindustry-guide/Guide/unitBind/unitBind.html)|
-|[Write](https://lanluz.github.io/Mindustry-guide/Guide/write/write.html)|[Print Flush](https://lanluz.github.io/Mindustry-guide/Guide/printFlush/printFlush.html)|[Operation](https://lanluz.github.io/Mindustry-guide/Guide/operation/operation.html)|[Jump](https://lanluz.github.io/Mindustry-guide/Guide/jump/jump.html)|[Unit Control](https://lanluz.github.io/Mindustry-guide/Guide/unitControl/unitControl.html)|
-|[Draw](https://lanluz.github.io/Mindustry-guide/Guide/draw/draw.html)|[Get Link](https://lanluz.github.io/Mindustry-guide/Guide/getLink/getLink.html)|||[Unit Radar](https://lanluz.github.io/Mindustry-guide/Guide/unitRadar/unitRadar.html)|
-|[Print](https://lanluz.github.io/Mindustry-guide/Guide/print/print.html)|[Control](https://lanluz.github.io/Mindustry-guide/Guide/control/control.html)|||[Unit Locate](https://lanluz.github.io/Mindustry-guide/Guide/unitLocate/unitLocate.html)|
-||[Radar](https://lanluz.github.io/Mindustry-guide/Guide/radar/radar.html)||||
-||[Sensor](https://lanluz.github.io/Mindustry-guide/Guide/sensor/sensor.html)||||
+<details>
+
+<table>
+<thead>
+<tr>
+<th>内存操作</th>
+<th>方块控制</th>
+<th>变量运算</th>
+<th>流程控制</th>
+<th>单位控制</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/read/read.html">Read</a></td>
+<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/drawFlush/drawFlush.html">Draw Flush</a></td>
+<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/set/set.html">Set</a></td>
+<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/end/end.html">End</a></td>
+<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/unitBind/unitBind.html">Unit Bind</a></td>
+</tr>
+<tr>
+<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/write/write.html">Write</a></td>
+<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/printFlush/printFlush.html">Print Flush</a></td>
+<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/operation/operation.html">Operation</a></td>
+<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/jump/jump.html">Jump</a></td>
+<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/unitControl/unitControl.html">Unit Control</a></td>
+</tr>
+<tr>
+<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/draw/draw.html">Draw</a></td>
+<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/getLink/getLink.html">Get Link</a></td>
+<td></td>
+<td></td>
+<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/unitRadar/unitRadar.html">Unit Radar</a></td>
+</tr>
+<tr>
+<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/print/print.html">Print</a></td>
+<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/control/control.html">Control</a></td>
+<td></td>
+<td></td>
+<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/unitLocate/unitLocate.html">Unit Locate</a></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/radar/radar.html">Radar</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/sensor/sensor.html">Sensor</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+</details>
 
 ---
 
