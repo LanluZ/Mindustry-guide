@@ -114,15 +114,20 @@
 
 ## 实例教学
 
-(施工中)
+<details>
+<summary>1-2.输出与绘图</summary>
+
+1. [第一课：打印出 "Hello,Mindustry"](https://lanluz.github.io/Mindustry-guide/example/class1/example.html)
+2. [第二课：根据仓库载荷绘制出载荷百分比显示图像](https://lanluz.github.io/Mindustry-guide/example/class2/example.html)
+
+</details>
 
 <details>
+<summary>3-5.循环实现</summary>
 
-1. 打印出 "Hello,Mindustry"
-2. 根据仓库载荷绘制出一次函数  
-3. 使用Memory cell的循环
-4. 使用jump的循环
-5. 使用@counter的循环
+3. 第三课：使用Memory cell的循环
+4. 第四课：使用jump的循环
+5. 第五课：使用@counter的循环
 
 </details>
 

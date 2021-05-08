@@ -392,19 +392,21 @@
 
 ## 实例教学
 
-(施工中)
-
-<details>
-
+<p>&lt;details&gt;
+&lt;summary&gt;1-2.输出与绘图&lt;/summary&gt;</p>
 <ol>
-<li>打印出 &quot;Hello,Mindustry&quot;</li>
-<li>根据仓库载荷绘制出一次函数</li>
-<li>使用Memory cell的循环</li>
-<li>使用jump的循环</li>
-<li>使用@counter的循环</li>
+<li><a href="/example/class1/example.html">第一课：打印出 &quot;Hello,Mindustry&quot;</a></li>
+<li><a href="/example/class2/example.html">第二课：根据仓库载荷绘制出载荷百分比显示图像</a></li>
 </ol>
-
-</details>
+<p>&lt;/details&gt;</p>
+<p>&lt;details&gt;
+&lt;summary&gt;3-5.循环实现&lt;/summary&gt;</p>
+<ol start="3">
+<li>第三课：使用Memory cell的循环</li>
+<li>第四课：使用jump的循环</li>
+<li>第五课：使用@counter的循环</li>
+</ol>
+<p>&lt;/details&gt;</p>
 
 ---
 
