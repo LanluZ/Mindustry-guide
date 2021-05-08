@@ -390,7 +390,7 @@
 
 ---
 
-## 实例教学
+<h2>实例教学</h2>
 
 <p>&lt;details&gt;
 &lt;summary&gt;1-2.输出与绘图&lt;/summary&gt;</p>
