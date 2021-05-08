@@ -125,7 +125,7 @@
 <details>
 <summary>3-5.循环实现</summary>
 
-3. 第三课：使用Memory cell的循环
+3. [第三课：使用Memory cell的循环](https://lanluz.github.io/Mindustry-guide/example/class3/example.html)
 4. 第四课：使用jump的循环
 5. 第五课：使用@counter的循环
 

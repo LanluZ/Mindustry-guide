@@ -406,7 +406,7 @@
 <summary>3-5.循环实现</summary>
 
 <ol start="3">
-<li>第三课：使用Memory cell的循环</li>
+<li><a href="/Mindustry-guide/example/class3/example.html">第三课：使用Memory cell的循环</a></li>
 <li>第四课：使用jump的循环</li>
 <li>第五课：使用@counter的循环</li>
 </ol>

@@ -39,4 +39,10 @@
 
 ---
 
+**练习**
+
+使用循环结合第二课内容绘制出仓库储量百分比的“心电图”
+
+---
+
 [返回](https://lanluz.github.io/Mindustry-guide/)
