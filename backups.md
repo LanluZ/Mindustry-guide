@@ -23,12 +23,12 @@
 
 |内存操作|方块控制|变量运算|流程控制|单位控制|
 |-|-|-|-|-|
-|[Read](https://lanluz.github.io/Mindustry-guide/Guide/read/read.html)|[Draw Flush](https://lanluz.github.io/Mindustry-guide/Guide/drawFlush/drawFlush.html)|[Set](https://lanluz.github.io/Mindustry-guide/Guide/set/set.html)|[End](https://lanluz.github.io/Mindustry-guide/Guide/end/end.html)|[Unit Bind](https://lanluz.github.io/Mindustry-guide/Guide/unitBind/unitBind.html)|
-|[Write](https://lanluz.github.io/Mindustry-guide/Guide/write/write.html)|[Print Flush](https://lanluz.github.io/Mindustry-guide/Guide/printFlush/printFlush.html)|[Operation](https://lanluz.github.io/Mindustry-guide/Guide/operation/operation.html)|[Jump](https://lanluz.github.io/Mindustry-guide/Guide/jump/jump.html)|[Unit Control](https://lanluz.github.io/Mindustry-guide/Guide/unitControl/unitControl.html)|
-|[Draw](https://lanluz.github.io/Mindustry-guide/Guide/draw/draw.html)|[Get Link](https://lanluz.github.io/Mindustry-guide/Guide/getLink/getLink.html)|||[Unit Radar](https://lanluz.github.io/Mindustry-guide/Guide/unitRadar/unitRadar.html)|
-|[Print](https://lanluz.github.io/Mindustry-guide/Guide/print/print.html)|[Control](https://lanluz.github.io/Mindustry-guide/Guide/control/control.html)|||[Unit Locate](https://lanluz.github.io/Mindustry-guide/Guide/unitLocate/unitLocate.html)|
-||[Radar](https://lanluz.github.io/Mindustry-guide/Guide/radar/radar.html)||||
-||[Sensor](https://lanluz.github.io/Mindustry-guide/Guide/sensor/sensor.html)||||
+|[Read](/Mindustry-guide/Guide/read/read.html)|[Draw Flush](/Mindustry-guide/Guide/drawFlush/drawFlush.html)|[Set](/Mindustry-guide/Guide/set/set.html)|[End](/Mindustry-guide/Guide/end/end.html)|[Unit Bind](/Mindustry-guide/Guide/unitBind/unitBind.html)|
+|[Write](/Mindustry-guide/Guide/write/write.html)|[Print Flush](/Mindustry-guide/Guide/printFlush/printFlush.html)|[Operation](/Mindustry-guide/Guide/operation/operation.html)|[Jump](/Mindustry-guide/Guide/jump/jump.html)|[Unit Control](/Mindustry-guide/Guide/unitControl/unitControl.html)|
+|[Draw](/Mindustry-guide/Guide/draw/draw.html)|[Get Link](/Mindustry-guide/Guide/getLink/getLink.html)|||[Unit Radar](/Mindustry-guide/Guide/unitRadar/unitRadar.html)|
+|[Print](/Mindustry-guide/Guide/print/print.html)|[Control](/Mindustry-guide/Guide/control/control.html)|||[Unit Locate](/Mindustry-guide/Guide/unitLocate/unitLocate.html)|
+||[Radar](/Mindustry-guide/Guide/radar/radar.html)||||
+||[Sensor](/Mindustry-guide/Guide/sensor/sensor.html)||||
 
 ## 关键字
 
@@ -94,8 +94,8 @@
 <details>
 <summary>1-2.输出与绘图</summary>
 
-1. [第一课：打印出 "Hello,Mindustry"](/example/class1/example.html)
-2. [第二课：根据仓库载荷绘制出载荷百分比显示图像](/example/class2/example.html)
+1. [第一课：打印出 "Hello,Mindustry"](/Mindustry-guide/example/class1/example.html)
+2. [第二课：根据仓库载荷绘制出载荷百分比显示图像](/Mindustry-guide/example/class2/example.html)
 
 </details>
 

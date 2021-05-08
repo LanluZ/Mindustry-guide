@@ -105,43 +105,43 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/read/read.html">Read</a></td>
-<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/drawFlush/drawFlush.html">Draw Flush</a></td>
-<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/set/set.html">Set</a></td>
-<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/end/end.html">End</a></td>
-<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/unitBind/unitBind.html">Unit Bind</a></td>
+<td><a href="/Mindustry-guide/Guide/read/read.html">Read</a></td>
+<td><a href="/Mindustry-guide/Guide/drawFlush/drawFlush.html">Draw Flush</a></td>
+<td><a href="/Mindustry-guide/Guide/set/set.html">Set</a></td>
+<td><a href="/Mindustry-guide/Guide/end/end.html">End</a></td>
+<td><a href="/Mindustry-guide/Guide/unitBind/unitBind.html">Unit Bind</a></td>
 </tr>
 <tr>
-<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/write/write.html">Write</a></td>
-<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/printFlush/printFlush.html">Print Flush</a></td>
-<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/operation/operation.html">Operation</a></td>
-<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/jump/jump.html">Jump</a></td>
-<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/unitControl/unitControl.html">Unit Control</a></td>
+<td><a href="/Mindustry-guide/Guide/write/write.html">Write</a></td>
+<td><a href="/Mindustry-guide/Guide/printFlush/printFlush.html">Print Flush</a></td>
+<td><a href="/Mindustry-guide/Guide/operation/operation.html">Operation</a></td>
+<td><a href="/Mindustry-guide/Guide/jump/jump.html">Jump</a></td>
+<td><a href="/Mindustry-guide/Guide/unitControl/unitControl.html">Unit Control</a></td>
 </tr>
 <tr>
-<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/draw/draw.html">Draw</a></td>
-<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/getLink/getLink.html">Get Link</a></td>
+<td><a href="/Mindustry-guide/Guide/draw/draw.html">Draw</a></td>
+<td><a href="/Mindustry-guide/Guide/getLink/getLink.html">Get Link</a></td>
 <td></td>
 <td></td>
-<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/unitRadar/unitRadar.html">Unit Radar</a></td>
+<td><a href="/Mindustry-guide/Guide/unitRadar/unitRadar.html">Unit Radar</a></td>
 </tr>
 <tr>
-<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/print/print.html">Print</a></td>
-<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/control/control.html">Control</a></td>
+<td><a href="/Mindustry-guide/Guide/print/print.html">Print</a></td>
+<td><a href="/Mindustry-guide/Guide/control/control.html">Control</a></td>
 <td></td>
 <td></td>
-<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/unitLocate/unitLocate.html">Unit Locate</a></td>
-</tr>
-<tr>
-<td></td>
-<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/radar/radar.html">Radar</a></td>
-<td></td>
-<td></td>
-<td></td>
+<td><a href="/Mindustry-guide/Guide/unitLocate/unitLocate.html">Unit Locate</a></td>
 </tr>
 <tr>
 <td></td>
-<td><a href="https://lanluz.github.io/Mindustry-guide/Guide/sensor/sensor.html">Sensor</a></td>
+<td><a href="/Mindustry-guide/Guide/radar/radar.html">Radar</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="/Mindustry-guide/Guide/sensor/sensor.html">Sensor</a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -396,8 +396,8 @@
 <summary>1-2.输出与绘图</summary>
 
 <ol>
-<li><a href="/example/class1/example.html">第一课：打印出 &quot;Hello,Mindustry&quot;</a></li>
-<li><a href="/example/class2/example.html">第二课：根据仓库载荷绘制出载荷百分比显示图像</a></li>
+<li><a href="/Mindustry-guide/example/class1/example.html">第一课：打印出 &quot;Hello,Mindustry&quot;</a></li>
+<li><a href="/Mindustry-guide/example/class2/example.html">第二课：根据仓库载荷绘制出载荷百分比显示图像</a></li>
 </ol>
 
 </details>
