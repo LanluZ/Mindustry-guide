@@ -431,7 +431,7 @@
 
 ### 反馈
 
-您如果有任何建议都可以反馈到这个邮箱
+因编者能力和精力有限，如果您有任何建议都可以反馈到这个邮箱
 LanluZ@foxmail.com
 
 ### 特别鸣谢
@@ -441,5 +441,32 @@ LanluZ@foxmail.com
 <details>
 
     华漾emoji
+
+</details>
+
+### 滑稽支持
+
+原帖链接：[百度贴吧](https://tieba.baidu.com/p/7296831967)
+
+<details>
+<summary>
+<p><img src="https://tb2.bdstatic.com/tb/editor/images/face/i_f25.png?t=20140803" alt="滑稽"><b>滑稽列表</b></p>
+</summary>
+
+<script language=javascript>
+
+var name = ["尘世浮华Ian","qq2357534060", "黄金眼0号机,请问而退欧附近","Gewspt-","霒蚀君的主人"]
+
+var color = new Array()
+
+for (var i=0;i<16;i++>){
+    var color[i] = '#'+ Math.random().toString(16).substr(-6);
+}
+
+for (var i=0;i<name.length;i++){
+    document.write("<font color="+color[i]">"+name[i]"</font>");
+}
+
+</script>
 
 </details>
