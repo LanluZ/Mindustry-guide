@@ -434,6 +434,8 @@
 因编者能力和精力有限，如果您有任何建议都可以反馈到这个邮箱
 LanluZ@foxmail.com
 
+---
+
 ### 特别鸣谢
 
 排名不分先后
@@ -443,6 +445,8 @@ LanluZ@foxmail.com
     华漾emoji
 
 </details>
+
+---
 
 ### 滑稽支持
 
@@ -455,18 +459,21 @@ LanluZ@foxmail.com
 
 <script language=javascript>
 
-var name = ["尘世浮华Ian","qq2357534060", "黄金眼0号机,请问而退欧附近","Gewspt-","霒蚀君的主人"]
-
-var color = new Array()
-
-for (var i=0;i<16;i++>){
-    var color[i] = '#'+ Math.random().toString(16).substr(-6);
-}
-
-for (var i=0;i<name.length;i++){
-    document.write("<font color="+color[i]">"+name[i]"</font>");
-}
-
-</script>
+    var name = ["尘世浮华Ian","qq2357534060","黄金眼0号机","请问而退欧附近","Gewspt-","霒蚀君的主人"]
+    
+    var color = new Array()
+    
+    for (var i=0;i<16;i++){
+        color[i] = '#'+ Math.random().toString(16).substr(-6);
+    }
+    
+    for (var i=0,j=0;i<name.length;i++,j++){
+        if (j==16)
+            j=0;
+        document.write("<font color="+color[i]+">"+name[i]+"</font>");
+        document.writeln();
+    }
+    
+    </script>
 
 </details>
