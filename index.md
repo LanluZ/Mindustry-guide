@@ -452,28 +452,13 @@ LanluZ@foxmail.com
 
 原帖链接：[百度贴吧](https://tieba.baidu.com/p/7296831967)
 
-<details>
-<summary>
-<p><img src="https://tb2.bdstatic.com/tb/editor/images/face/i_f25.png?t=20140803" alt="滑稽"><b>滑稽列表</b></p>
-</summary>
+<script src="./js/color.js" type="text/javascript"></script>
 
-<script language=javascript>
+<form action="javascript:out()" method="post">
+    <input type="image" 
+     src="https://tb2.bdstatic.com/tb/editor/images/face/i_f25.png?t=20140803" 
+     alt="点我"
+    />
+</form>
 
-    var name = ["尘世浮华Ian","qq2357534060","黄金眼0号机","请问而退欧附近","Gewspt-","霒蚀君的主人"]
-    
-    var color = new Array()
-    
-    for (var i=0;i<16;i++){
-        color[i] = '#'+ Math.random().toString(16).substr(-6);
-    }
-    
-    for (var i=0,j=0;i<name.length;i++,j++){
-        if (j==16)
-            j=0;
-        document.write("<font color="+color[i]+">"+name[i]+"</font>");
-        document.writeln();
-    }
-    
-    </script>
-
-</details>
+<div id="outPut"></div>
