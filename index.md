@@ -21,9 +21,9 @@
 
 <div>
     <button class="btn btn-warning" onclick="details(0)"><font color="#f36c21"><b>逻辑方块</b></font></button>
-    <button class="btn btn-warning" onclick="details(1)"><font color="##f36c21"><b>逻辑指令</b></font></button>
-    <button class="btn btn-warning" onclick="details(2)"><font color="##f36c21"><b>关键字表</b></font></button>
-    <button class="btn btn-warning" onclick="details(3)"><font color="##f36c21"><b>实例教学</b></font></button>
+    <button class="btn btn-warning" onclick="details(1)"><font color="#f36c21"><b>逻辑指令</b></font></button>
+    <button class="btn btn-warning" onclick="details(2)"><font color="#f36c21"><b>关键字表</b></font></button>
+    <button class="btn btn-warning" onclick="details(3)"><font color="#f36c21"><b>实例教学</b></font></button>
 </div>
 
 <p></p>
