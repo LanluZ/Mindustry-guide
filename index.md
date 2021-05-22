@@ -1,4 +1,4 @@
-## Mindustry Logic 中文手册 V0.1
+<h1><font color="#6f60aa">Mindustry Logic 中文手册 V0.1.1</font></h1>
 
 <head>
     <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
@@ -13,7 +13,7 @@ src="http://apps.bdimg.com/libs/jquery/1.8.1/jquery.min.js">
 </script>
 <script type="text/javascript">
  var a_idx = 0; jQuery(document).ready(function($) 
- 	{ $("body").click(function(e) { var a = new Array("像素","工厂","逻辑","手册",""); 
+ 	{ $("body").click(function(e) { var a = new Array("像素","工厂","逻辑","手册"); 
 var $i = $("<span/>").text(a[a_idx]); 
 a_idx = (a_idx + 1) % a.length; var x = e.pageX, y = e.pageY;
  $i.css({ "z-index": 99, "top": y - 20, "left": x, "position": "absolute", "font-weight": "bold", "color": randomColor() }); $("body").append($i); $i.animate({ "top": y - 180, "opacity": 0 }, 1500, function(){ $i.remove(); }); }); });
@@ -32,10 +32,10 @@ a_idx = (a_idx + 1) % a.length; var x = e.pageX, y = e.pageY;
 ---
 
 <div>
-    <button class="btn btn-warning" onclick="details(0)"><b>逻辑方块</b></button>
-    <button class="btn btn-warning" onclick="details(1)"><b>逻辑指令</b></button>
-    <button class="btn btn-warning" onclick="details(2)"><b>关键字表</b></button>
-    <button class="btn btn-warning" onclick="details(3)"><b>实例教学</b></button>
+    <button class="btn btn-warning" onclick="details(0)"><font color="#afdfe4"><b>逻辑方块</b></font></button>
+    <button class="btn btn-warning" onclick="details(1)"><font color="#afdfe4"><b>逻辑指令</b></font></button>
+    <button class="btn btn-warning" onclick="details(2)"><font color="#afdfe4"><b>关键字表</b></font></button>
+    <button class="btn btn-warning" onclick="details(3)"><font color="#afdfe4"><b>实例教学</b></font></button>
 </div>
 
 <p></p>
