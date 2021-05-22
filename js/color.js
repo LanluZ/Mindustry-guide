@@ -7,17 +7,17 @@ list = name.split(",");
 //色彩
 var color = new Array();
 //展开判断
-var det = 0;
+var emojiDetails = 0;
 
 function out() {
-    if (!det) {
-        document.getElementById("outPut").innerHTML = table();
-        det = 1;
+    if (!emojiDetails) {
+        document.getElementById("emojiOutPut").innerHTML = table();
+        emojiDetails = 1;
     } else {
-        var ob1 = document.getElementById("outPut");
-        var ob2 = document.getElementById("start");
+        var ob1 = document.getElementById("emojiOutPut");
+        var ob2 = document.getElementById("emojiStart");
         ob1.removeChild(ob2);
-        det = 0;
+        emojiDetails = 0;
     }
 }
 
@@ -31,7 +31,7 @@ function table() {
     }
 
     //输出表格(8列1行)
-    out += "<table id='start'>";
+    out += "<table id='emojiStart'>";
     for (var i = 0, j = 0, h = 0; i < list.length; i++, j++, h++) {
         if (j == 16) j = 0;
 
@@ -48,6 +48,3 @@ function table() {
     return out;
 }
 
-function text() {
-    alert("按钮");
-}
