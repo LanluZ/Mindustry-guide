@@ -11,20 +11,21 @@
 
 ---
 
+<body>
 
 你可以在这个网页上阅读或者下载到玩家分享的逻辑
 
 也可以进入 [GitHub](https://github.com/LanluZ/Mindustry-guide) 查看
 
-<a href="https://github.com/LanluZ/Mindustry-guide" target="_blank" class="btn btn-secondary col-lg-4">GitHub</a>
+<a href="https://github.com/LanluZ/Mindustry-guide" target="_blank" class="btn btn-secondary col-lg-4"><b>GitHub</b></a>
 
 ---
 
 <div>
-    <button class="btn btn-warning" onclick="details(0)">逻辑方块</button>
-    <button class="btn btn-warning" onclick="details(1)">逻辑指令</button>
-    <button class="btn btn-warning" onclick="details(2)">关键字表</button>
-    <button class="btn btn-warning" onclick="details(3)">实例教学</button>
+    <button class="btn btn-warning" onclick="details(0)"><b>逻辑方块</b></button>
+    <button class="btn btn-warning" onclick="details(1)"><b>逻辑指令</b></button>
+    <button class="btn btn-warning" onclick="details(2)"><b>关键字表</b></button>
+    <button class="btn btn-warning" onclick="details(3)"><b>实例教学</b></button>
 </div>
 
 <p></p>
@@ -34,7 +35,7 @@
 
 ---
 
-## 下载
+#### 下载
 
 <details>
 
@@ -47,14 +48,14 @@
 
 ---
 
-### 反馈
+#### 反馈
 
 因编者能力和精力有限，如果您有任何建议都可以反馈到这个邮箱
 LanluZ@foxmail.com
 
 ---
 
-### 特别鸣谢
+#### 特别鸣谢
 
 排名不分先后
 
@@ -66,7 +67,7 @@ LanluZ@foxmail.com
 
 ---
 
-### 滑稽支持
+#### 滑稽支持
 
 原帖链接：[百度贴吧](https://tieba.baidu.com/p/7296831967)
 
@@ -82,3 +83,4 @@ LanluZ@foxmail.com
 
 <div id="emojiOutPut"></div>
 
+</body>

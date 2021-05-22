@@ -5,14 +5,14 @@ var last = null;
 var str = new Array;
 
 function details(id) {
-    if (!guideDetails || last!=id) {
+    if (!guideDetails || last != id) {
         guideDetails = 1;
-        document.getElementById("guideOutPut").innerHTML = "<div id='object'>"+guideOutPut(id)+"</div>";
-        last=id;
+        document.getElementById("guideOutPut").innerHTML = "<div id='object'>" + guideOutPut(id) + "</div>";
+        last = id;
     } else {
         guideDetails = 0;
-        var guideOb1=document.getElementById("guideOutPut");
-        var guideOb2=document.getElementById("object");
+        var guideOb1 = document.getElementById("guideOutPut");
+        var guideOb2 = document.getElementById("object");
         guideOb1.removeChild(guideOb2);
     }
 }
@@ -93,7 +93,7 @@ function guideOutPut(id) {
             </table>';
             break;
         case 1:
-            str ='<table>\
+            str = '<table>\
             <thead>\
             <tr>\
             <th>内存操作</th>\
@@ -150,7 +150,7 @@ function guideOutPut(id) {
             </table>';
             break;
         case 2:
-            str ='<table>\
+            str = '<table>\
             <thead>\
             <tr>\
             <th>关键字</th>\
@@ -378,7 +378,7 @@ function guideOutPut(id) {
             </table>';
             break;
         case 3:
-            str='<h3>1-2.输出与绘图</h3>\
+            str = '<h3>1-2.输出与绘图</h3>\
             <ol>\
             <li><a href="/Mindustry-guide/example/class1/example.html">第一课：打印出 &quot;Hello,Mindustry&quot;</a></li>\
             <li><a href="/Mindustry-guide/example/class2/example.html">第二课：根据仓库载荷绘制出载荷百分比显示图像</a></li>\
