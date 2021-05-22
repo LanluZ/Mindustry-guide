@@ -20,12 +20,14 @@
 
 ---
 
-<div align="center">
+<div>
     <button class="btn btn-warning" onclick="details(0)">逻辑方块</button>
     <button class="btn btn-warning" onclick="details(1)">逻辑指令</button>
     <button class="btn btn-warning" onclick="details(2)">关键字表</button>
     <button class="btn btn-warning" onclick="details(3)">实例教学</button>
 </div>
+
+<p></p>
 
 <div id = "guideOutPut">
 </div>
@@ -69,14 +71,14 @@ LanluZ@foxmail.com
 原帖链接：[百度贴吧](https://tieba.baidu.com/p/7296831967)
 
 <div>
-<form action="javascript:out()" method="post">
+    <form action="javascript:out()" method="post">
     <input
-    type="image"
-    src="https://tb2.bdstatic.com/tb/editor/images/face/i_f25.png?t=20140803"
-    alt="点我"
+        type="image"
+        src="https://tb2.bdstatic.com/tb/editor/images/face/i_f25.png?t=20140803"
+        alt="点我"
     />
-</form>
+    </form>
 </div>
 
-<div id="outPut"></div>
+<div id="emojiOutPut"></div>
 
