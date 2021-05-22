@@ -12,7 +12,7 @@
 
 ---
 
-<h2><font color=000066>find</font></h2>
+<h2>find</h2>
 
 ![图片填充](/Mindustry-guide/Guide/img/unitLocate1.png)
 
@@ -28,7 +28,7 @@
 ---
 
 <details>
-<summary><font color=#000033><b>Ore</b></font></summary>
+<summary><b>Ore</b></summary>
 
 <h3>ore</h3>
 <p><strong>ore</strong></p>
@@ -46,7 +46,7 @@
 ---
 
 <details>
-<summary><font color=#000033><b>Building</b></font></summary>
+<summary><b>Building</b></summary>
 
 <h3>building</h3>
 <p>描述：寻找一个建筑物</p>
@@ -122,7 +122,7 @@
 ---
 
 <details>
-<summary><font color=#000033><b>Spawn</b></font></summary>
+<summary><b>Spawn</b></summary>
 
 <h3>spawn</h3>
 <p>描述：寻找敌人重生点 可能是一个核心或者一个位置</p>
@@ -141,7 +141,7 @@
 ---
 
 <details>
-<summary><font color=#000033><b>Damaged</b></font></summary>
+<summary><b>Damaged</b></summary>
 
 <h3>damaged</h3>
 <p>描述：寻找受伤的盟军建筑物</p>

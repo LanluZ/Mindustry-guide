@@ -6,21 +6,32 @@ var name = [
 list = name.split(",");
 //色彩
 var color = new Array();
-
-for (var i = 0; i < 16; i++) {
-    color[i] = "#" + Math.random().toString(16).substr(-6);
-}
+//展开判断
+var det = 0;
 
 function out() {
-    document.getElementById("outPut").innerHTML = table();
+    if (!det) {
+        document.getElementById("outPut").innerHTML = table();
+        det = 1;
+    } else {
+        var ob1 = document.getElementById("outPut");
+        var ob2 = document.getElementById("start");
+        ob1.removeChild(ob2);
+        det = 0;
+    }
 }
 
 function table() {
     //输出
     var out = new Array();
 
+    //颜色生成
+    for (var i = 0; i < 16; i++) {
+        color[i] = "#" + Math.random().toString(16).substr(-6);
+    }
+
     //输出表格(8列1行)
-    out += "<table>";
+    out += "<table id='start'>";
     for (var i = 0, j = 0, h = 0; i < list.length; i++, j++, h++) {
         if (j == 16) j = 0;
 
