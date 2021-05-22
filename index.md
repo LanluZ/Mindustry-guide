@@ -7,6 +7,18 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
     <script src="./js/color.js" type="text/javascript"></script>
     <script src="./js/details.js" type="text/javascript"></script>
+
+<script language="javascript" type="text/javascript" 
+src="http://apps.bdimg.com/libs/jquery/1.8.1/jquery.min.js">	
+</script>
+<script type="text/javascript">
+ var a_idx = 0; jQuery(document).ready(function($) 
+ 	{ $("body").click(function(e) { var a = new Array("像素","工厂","逻辑","手册",""); 
+var $i = $("<span/>").text(a[a_idx]); 
+a_idx = (a_idx + 1) % a.length; var x = e.pageX, y = e.pageY;
+ $i.css({ "z-index": 99, "top": y - 20, "left": x, "position": "absolute", "font-weight": "bold", "color": randomColor() }); $("body").append($i); $i.animate({ "top": y - 180, "opacity": 0 }, 1500, function(){ $i.remove(); }); }); });
+ </script>
+
 </head>
 
 ---
