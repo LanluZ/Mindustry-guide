@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>调色盘</title>
+      <link rel="stylesheet" href="css/style.css">
+<style>
+  *{margin: 0px; padding: 0px;}
+</style>
+  
+</head>
+
+<body>
+
+  <div class="app" id="app">
+  <div class="container">
+    <div class="row">
+      <color-disc size="200" format="hex"></color-disc>
+      <!-- Color Disc code available on GitHub! -->
+    </div>
+    <div class="row">
+      <h1 id="color"></h1>
+    </div>
+    <div class="row">
+      <div class="choose">
+        <label for="format">Format</label>&nbsp; &nbsp;
+        <select class="format" id="format">
+          <option value="hex" selected>Hex</option>
+          <option value="hsl">Hsl</option>
+          <option value="rgb">Rgb</option>
+        </select>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <script src='./js/color-disc.min.js'></script>
+    <script  src="./js/script.js"></script>
+
+
+
+
+</body>
+
+</html>
