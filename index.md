@@ -36,7 +36,7 @@
 也可以进入 [GitHub](https://github.com/LanluZ/Mindustry-guide) 查看
 
 
-<a href="https://github.com/LanluZ/Mindustry-guide" target="_blank" class="btn btn-secondary col-lg-4"><a href='#' class='nice'>GitHub</a></a>
+<a href="https://github.com/LanluZ/Mindustry-guide" target="_blank" class="btn btn-secondary col-lg-4">GitHub</a>
 
 ---
 
