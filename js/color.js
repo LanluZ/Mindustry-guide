@@ -13,7 +13,7 @@ var emojiDetails = 0;
 function out() {
     if (!emojiDetails) {//展开
         document.getElementById("emojiOutPut").innerHTML = table();
-        document.getElementById("BackgroundArea").style.backgroundImage="url('img/ero001.jpg')";
+        document.getElementById("BackgroundArea").style.backgroundImage="url('https://cdn.jsdelivr.net/gh/LanluZ/Mindustry-guide/img/ero001.jpg')";
         emojiDetails = 1;
     } else {
         var ob1 = document.getElementById("emojiOutPut");

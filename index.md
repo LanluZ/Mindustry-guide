@@ -27,6 +27,10 @@
     </style>
 </head>
 
+<div id="BackgroundArea">
+
+![logo](https://cdn.jsdelivr.net/gh/LanluZ/Mindustry-guide/img/Mindustry-logo.png)
+
 <h1><font color="#6f60aa"><b>Mindustry Logic 中文手册 V0.1.1</b></font></h1>
 
 ---
@@ -173,3 +177,5 @@ LanluZ@foxmail.com
 </div>
 
 <div id="emojiOutPut"></div>
+
+</div>
