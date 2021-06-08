@@ -14,7 +14,6 @@
     <style type="text/css">
       body {
         width: 100%;
-        overflow: hidden;
       }
       .row,
       .row a {
@@ -32,7 +31,7 @@
 
 ---
 
-你可以在这个网页上阅读或者下载到玩家分享的逻辑
+<p>你可以在这个网页上阅读或者下载到玩家分享的逻辑</p>
 
 也可以进入 [GitHub](https://github.com/LanluZ/Mindustry-guide) 查看
 
