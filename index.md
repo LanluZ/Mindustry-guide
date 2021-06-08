@@ -8,6 +8,24 @@
     <link rel="shortcut icon" href="http://www.runoob.com/images/tryitimg.gif" type="image/x-icon">
     <title>Mindustry中文逻辑手册</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-grid.min.css" />
+    <!--CSS RESET-->
+    <link href="./css/nicebord.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+      body {
+        width: 100%;
+        overflow: hidden;
+      }
+      .row,
+      .row a {
+        text-align: center;
+        color: #d5d6e2;
+        text-decoration: none;
+      }
+      .aimg {
+        margin: 10px auto;
+      }
+    </style>
 </head>
 
 <h1><font color="#6f60aa"><b>Mindustry Logic 中文手册 V0.1.1</b></font></h1>
