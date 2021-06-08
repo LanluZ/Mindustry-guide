@@ -27,7 +27,6 @@
     </style>
 </head>
 
-<div id="BackgroundArea">
 
 ![logo](https://cdn.jsdelivr.net/gh/LanluZ/Mindustry-guide/img/Mindustry-logo.png)
 
@@ -164,7 +163,7 @@ LanluZ@foxmail.com
 
 原帖链接：[百度贴吧](https://tieba.baidu.com/p/7296831967)
 
-<font color="white">ps. 纯手工打造html,不来发个滑稽吗</font>
+<font color="white">ps. 有一个古老的传说，发的滑稽足够多了，涩图就会出现</font>
 
 <div>
     <form action="javascript:out()" method="post">
@@ -175,6 +174,8 @@ LanluZ@foxmail.com
     />
     </form>
 </div>
+
+<div id="BackgroundArea">
 
 <div id="emojiOutPut"></div>
 
