@@ -72,7 +72,7 @@
 
 <!--边框插件-->
 <script src="js/jquery-1.11.0.min.js" type="text/javascript"></script>
-<script src="./js/nicebord.js"></script>
+<script src="js/nicebord.js"></script>
 <script>
 $(document).ready(function(){
     $('#first').nicebord({
@@ -156,7 +156,3 @@ LanluZ@foxmail.com
 </div>
 
 <div id="emojiOutPut"></div>
-
-<a href='#' class='scroll-to-top'></a>
-<script src='js/jquery.min.js'></script>
-<script src="js/index.js"></script>
