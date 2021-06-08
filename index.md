@@ -32,10 +32,10 @@
 </div>
 <p></p>
 <div>
-    <button id="button-palette" class="btn btn-info"><b>取色板</b></button>
+    <button id="button-palette" class="btn btn-info"><b><a href='#' class='nice'>取色板</a></b></button>
 </div>
 
-<!--页面弹出-->
+
 <!--调色板页面弹出-->
 <div id="aplayer" class="aplayer" data-order="random" data-id="20173709" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="true" data-volume="0.8"></div>
 <!-- aplayer -->
@@ -45,7 +45,7 @@
     $('#button-palette').on('click', function() {
         layer.open({
             type: 2,
-            title: '目前可以公开的情报',
+            title: '调色板',
             shadeClose: true,
             shade: false,
             maxmin: true, //开启最大化最小化按钮
@@ -55,10 +55,52 @@
     });
 </script>
 
-<!--按钮输出-->
 <p></p>
-<div id = "guideOutPut">
-</div>
+
+<div id="guideOutPut"></div>
+
+
+<script src="./js/color.js" type="text/javascript"></script>
+<script src="./js/details.js" type="text/javascript"></script>
+<script src="./js/color-disc.min.js"></script>
+<script src="./js/script.js"></script>
+
+<!--回到顶部-->
+<a href="#" class="scroll-to-top"></a>
+<script src="js/jquery.min.js"></script>
+<script src="js/index.js"></script>
+
+<!--边框插件-->
+<script src="js/jquery-1.11.0.min.js" type="text/javascript"></script>
+<script src="./js/nicebord.js"></script>
+<script>
+$(document).ready(function(){
+    $('#first').nicebord({
+    color: '#000',
+    orientation: 'ackw',
+    size:5,
+    speed:200,
+    direction:true,
+    center:true
+    });
+    $('.nice').nicebord({
+    color: '#000',
+    orientation: 'ackw',
+    size:3,
+    pos:'top,bottom',
+    speed:500
+    });
+    $('.aimg').nicebord({
+    color: '#000',
+    orientation: 'ckw',
+    size:5,
+    speed:200,
+    direction:false,
+    fix:true,
+    center:true
+    });
+});
+</script>
 
 ---
 
@@ -118,35 +160,3 @@ LanluZ@foxmail.com
 <a href='#' class='scroll-to-top'></a>
 <script src='js/jquery.min.js'></script>
 <script src="js/index.js"></script>
-
-<!--边框插件-->
-<script src="js/jquery-1.11.0.min.js" type="text/javascript"></script>
-<script src="./js/nicebord.js"></script>
-<script>
-$(document).ready(function(){
-    $('#first').nicebord({
-    color: '#000',
-    orientation: 'ackw',
-    size:5,
-    speed:200,
-    direction:true,
-    center:true
-    });
-    $('.nice').nicebord({
-    color: '#000',
-    orientation: 'ackw',
-    size:3,
-    pos:'top,bottom',
-    speed:500
-    });
-    $('.aimg').nicebord({
-    color: '#000',
-    orientation: 'ckw',
-    size:5,
-    speed:200,
-    direction:false,
-    fix:true,
-    center:true
-    });
-});
-</script>
