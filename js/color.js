@@ -11,13 +11,15 @@ var color = new Array();
 var emojiDetails = 0;
 
 function out() {
-    if (!emojiDetails) {
+    if (!emojiDetails) {//展开
         document.getElementById("emojiOutPut").innerHTML = table();
+        document.getElementById("BackgroundArea").style.backgroundImage="url('img/ero001.jpg')";
         emojiDetails = 1;
     } else {
         var ob1 = document.getElementById("emojiOutPut");
         var ob2 = document.getElementById("emojiStart");
         ob1.removeChild(ob2);
+        document.getElementById("BackgroundArea").style.backgroundImage=null;
         emojiDetails = 0;
     }
 }

@@ -42,6 +42,12 @@ h1, label {
   color: white;
 }
 
+div {
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	-moz-background-size:100% 100%;
+}
+
 @import url(https://fonts.googleapis.com/css?family=Satisfy);
 @import url(https://fonts.googleapis.com/css?family=Marcellus);
 .content {
