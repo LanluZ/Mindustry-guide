@@ -45,6 +45,8 @@
 
 ---
 
+<hr>
+
 <div>
     <button class="btn btn-warning" onclick="details(0)"><a href='#' class='nice'>逻辑方块</a></button>
     <button class="btn btn-warning" onclick="details(1)"><a href='#' class='nice'>逻辑指令</a></button>
