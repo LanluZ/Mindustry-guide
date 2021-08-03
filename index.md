@@ -38,11 +38,6 @@
 
 也可以进入 [GitHub](https://github.com/LanluZ/Mindustry-guide) 查看
 
-<p>过几天一次性更完</p>
-
-
-<a href="https://github.com/LanluZ/Mindustry-guide" target="_blank" class="btn btn-secondary col-lg-4">GitHub</a>
-
 ---
 
 <hr>
