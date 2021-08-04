@@ -25,8 +25,8 @@
 |-|-|-|-|-|
 |[Read](/Mindustry-guide/Guide/read/read.html)|[Draw Flush](/Mindustry-guide/Guide/drawFlush/drawFlush.html)|[Set](/Mindustry-guide/Guide/set/set.html)|[End](/Mindustry-guide/Guide/end/end.html)|[Unit Bind](/Mindustry-guide/Guide/unitBind/unitBind.html)|
 |[Write](/Mindustry-guide/Guide/write/write.html)|[Print Flush](/Mindustry-guide/Guide/printFlush/printFlush.html)|[Operation](/Mindustry-guide/Guide/operation/operation.html)|[Jump](/Mindustry-guide/Guide/jump/jump.html)|[Unit Control](/Mindustry-guide/Guide/unitControl/unitControl.html)|
-|[Draw](/Mindustry-guide/Guide/draw/draw.html)|[Get Link](/Mindustry-guide/Guide/getLink/getLink.html)|||[Unit Radar](/Mindustry-guide/Guide/unitRadar/unitRadar.html)|
-|[Print](/Mindustry-guide/Guide/print/print.html)|[Control](/Mindustry-guide/Guide/control/control.html)|||[Unit Locate](/Mindustry-guide/Guide/unitLocate/unitLocate.html)|
+|[Draw](/Mindustry-guide/Guide/draw/draw.html)|[Get Link](/Mindustry-guide/Guide/getLink/getLink.html)|[Wait](/Mindustry-guide/Guide/wait/wait.html)||[Unit Radar](/Mindustry-guide/Guide/unitRadar/unitRadar.html)|
+|[Print](/Mindustry-guide/Guide/print/print.html)|[Control](/Mindustry-guide/Guide/control/control.html)|[Lookup](/Mindustry-guide/Guide/lookup/lookup.html)||[Unit Locate](/Mindustry-guide/Guide/unitLocate/unitLocate.html)|
 ||[Radar](/Mindustry-guide/Guide/radar/radar.html)||||
 ||[Sensor](/Mindustry-guide/Guide/sensor/sensor.html)||||
 

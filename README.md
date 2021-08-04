@@ -38,8 +38,8 @@
 |-|-|-|-|-|
 |[Read](https://lanluz.github.io/Mindustry-guide/Guide/read/read.html)|[Draw Flush](https://lanluz.github.io/Mindustry-guide/Guide/drawFlush/drawFlush.html)|[Set](https://lanluz.github.io/Mindustry-guide/Guide/set/set.html)|[End](https://lanluz.github.io/Mindustry-guide/Guide/end/end.html)|[Unit Bind](https://lanluz.github.io/Mindustry-guide/Guide/unitBind/unitBind.html)|
 |[Write](https://lanluz.github.io/Mindustry-guide/Guide/write/write.html)|[Print Flush](https://lanluz.github.io/Mindustry-guide/Guide/printFlush/printFlush.html)|[Operation](https://lanluz.github.io/Mindustry-guide/Guide/operation/operation.html)|[Jump](https://lanluz.github.io/Mindustry-guide/Guide/jump/jump.html)|[Unit Control](https://lanluz.github.io/Mindustry-guide/Guide/unitControl/unitControl.html)|
-|[Draw](https://lanluz.github.io/Mindustry-guide/Guide/draw/draw.html)|[Get Link](https://lanluz.github.io/Mindustry-guide/Guide/getLink/getLink.html)|||[Unit Radar](https://lanluz.github.io/Mindustry-guide/Guide/unitRadar/unitRadar.html)|
-|[Print](https://lanluz.github.io/Mindustry-guide/Guide/print/print.html)|[Control](https://lanluz.github.io/Mindustry-guide/Guide/control/control.html)|||[Unit Locate](https://lanluz.github.io/Mindustry-guide/Guide/unitLocate/unitLocate.html)|
+|[Draw](https://lanluz.github.io/Mindustry-guide/Guide/draw/draw.html)|[Get Link](https://lanluz.github.io/Mindustry-guide/Guide/getLink/getLink.html)|[Wait](https://lanluz.github.io/Mindustry-guide/Guide/wait/wait.html)||[Unit Radar](https://lanluz.github.io/Mindustry-guide/Guide/unitRadar/unitRadar.html)|
+|[Print](https://lanluz.github.io/Mindustry-guide/Guide/print/print.html)|[Control](https://lanluz.github.io/Mindustry-guide/Guide/control/control.html)|[Lookup](https://lanluz.github.io/Mindustry-guide/Guide/lookup/Lookup.html)||[Unit Locate](https://lanluz.github.io/Mindustry-guide/Guide/unitLocate/unitLocate.html)|
 ||[Radar](https://lanluz.github.io/Mindustry-guide/Guide/radar/radar.html)||||
 ||[Sensor](https://lanluz.github.io/Mindustry-guide/Guide/sensor/sensor.html)||||
 

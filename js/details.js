@@ -121,14 +121,14 @@ function guideOutPut(id) {
             <tr>\
             <td><a href="/Mindustry-guide/Guide/draw/draw.html">Draw</a></td>\
             <td><a href="/Mindustry-guide/Guide/getLink/getLink.html">Get Link</a></td>\
-            <td></td>\
+            <td><a href="/Mindustry-guide/Guide/wait/wait.html">Wait</a></td>\
             <td></td>\
             <td><a href="/Mindustry-guide/Guide/unitRadar/unitRadar.html">Unit Radar</a></td>\
             </tr>\
             <tr>\
             <td><a href="/Mindustry-guide/Guide/print/print.html">Print</a></td>\
             <td><a href="/Mindustry-guide/Guide/control/control.html">Control</a></td>\
-            <td></td>\
+            <td><a href="/Mindustry-guide/Guide/lookup/lookup.html">Lookup</a></td>\
             <td></td>\
             <td><a href="/Mindustry-guide/Guide/unitLocate/unitLocate.html">Unit Locate</a></td>\
             </tr>\
@@ -142,6 +142,13 @@ function guideOutPut(id) {
             <tr>\
             <td></td>\
             <td><a href="/Mindustry-guide/Guide/sensor/sensor.html">Sensor</a></td>\
+            <td></td>\
+            <td></td>\
+            <td></td>\
+            </tr>\
+            <tr>\
+            <td>`</td>\
+            <td></td>\
             <td></td>\
             <td></td>\
             <td></td>\

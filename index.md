@@ -267,6 +267,8 @@
 
 也可以进入 [GitHub](https://github.com/LanluZ/Mindustry-guide) 查看
 
+我不知道这V7更新了什么，所以如果在对象表有疏漏的，希望能即使在贴吧留言
+
 ---
 
 <div>
