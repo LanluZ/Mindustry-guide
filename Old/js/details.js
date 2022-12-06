@@ -488,15 +488,8 @@ function guideOutPut(id) {
             ';
             break;
         case 5 :
-            str='\
-			<div>\
-				<a href="https://github.com/LanluZ/Mindustry-guide" id="M1">Github</a>\
-				<a href="https://github.com/Anuken/Mindustry/" id="M1" style="background-color: #af00ff;">Mindustry</a>\
-				<a href="https://github.com/MindustryGame/wiki" id="M1" style="background-color: #2ed000;">官方Wiki</a>\
-				<a href="https://github.com/Anuken/MindustryMods" id="M1" style="background-color: #da5b5b;">模组仓库</a>\
-				<a href="https://tieba.baidu.com/f?ie=utf-8&kw=mindustry&fr=search" id="M1" style="background-color: #09c5de;">百度贴吧</a>\
-			</div>\
-            ';
+            str="\
+            ";
         break;
     }
     return str;
