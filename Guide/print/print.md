@@ -31,4 +31,4 @@ java
 
 p.s.此语句要与print flush配合使用
 
-[返回](https://lanluz.github.io/Mindustry-guide/)
+[返回](https://lanluz.github.io/)

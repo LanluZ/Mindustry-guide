@@ -10,11 +10,11 @@
 
 内部逻辑
 
-![内部逻辑](/Mindustry-guide/Guide/example/getLink.png)
+![内部逻辑](./Guide/example/getLink.png)
 
 自下而上依次点击
 
-![连接](/Mindustry-guide/Guide/img/getLink.png)
+![连接](./Guide/img/getLink.png)
 
 则
 
@@ -35,4 +35,4 @@ Mindustry
     getlink result 0
 ```
 
-[返回](https://lanluz.github.io/Mindustry-guide/)
+[返回](https://lanluz.github.io/)

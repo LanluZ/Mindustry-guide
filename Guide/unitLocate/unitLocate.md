@@ -8,13 +8,13 @@
         
 **方法**
 
-![图片填充](/Mindustry-guide/Guide/img/unitLocate.png)
+![图片填充](./Guide/img/unitLocate.png)
 
 ---
 
 <h2>find</h2>
 
-![图片填充](/Mindustry-guide/Guide/img/unitLocate1.png)
+![图片填充](./Guide/img/unitLocate1.png)
 
 
 <table>
@@ -52,7 +52,7 @@
 <p>描述：寻找一个建筑物</p>
 <p><strong>group</strong></p>
 <p>描述：寻找一类建筑物</p>
-<p><img src="/Mindustry-guide/Guide/img/unitLocate2.png" alt="图片填充"></p>
+<p><img src="./Guide/img/unitLocate2.png" alt="图片填充"></p>
 
 
 <table>
@@ -169,4 +169,4 @@ Mindustry
 
 ```
 
-[返回](https://lanluz.github.io/Mindustry-guide/)
+[返回](https://lanluz.github.io/)

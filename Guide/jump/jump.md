@@ -16,7 +16,7 @@
 
 **实例**
 
-![逻辑内部](/Mindustry-guide/Guide/example/jump.png)
+![逻辑内部](./Guide/example/jump.png)
 
 输出结果为 1 2 3 (未实际验证)
 
@@ -51,4 +51,4 @@ label:
 ```
 
 
-[返回](https://lanluz.github.io/Mindustry-guide/)
+[返回](https://lanluz.github.io/)

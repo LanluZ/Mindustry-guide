@@ -38,4 +38,4 @@ java
 ```
 p.s.赋值String时要加""否则为null
 
-[返回](https://lanluz.github.io/Mindustry-guide/)
+[返回](https://lanluz.github.io/)

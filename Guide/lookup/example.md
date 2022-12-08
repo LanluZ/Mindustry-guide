@@ -29,4 +29,4 @@ java
 
 ```
 
-[返回](https://lanluz.github.io/Mindustry-guide/)
+[返回](https://lanluz.github.io/)

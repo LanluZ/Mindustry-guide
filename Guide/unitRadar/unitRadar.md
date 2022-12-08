@@ -67,4 +67,4 @@ Mindustry
 ps.与Radar的区别是有无from参数项
 
 
-[返回](https://lanluz.github.io/Mindustry-guide/)
+[返回](https://lanluz.github.io/)

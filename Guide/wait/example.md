@@ -8,7 +8,7 @@
         
 **方法**
 
-![Wait](/Mindustry-guide/Guide/img/wait.png)
+![Wait](./Guide/img/wait.png)
 
 **sec**
 
@@ -35,4 +35,4 @@ java
 
 ```
 
-[返回](https://lanluz.github.io/Mindustry-guide/)
+[返回](https://lanluz.github.io/)

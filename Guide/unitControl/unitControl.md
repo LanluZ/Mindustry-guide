@@ -8,7 +8,7 @@
         
 **方法**
 
-![图片填充](/Mindustry-guide/Guide/img/unitControl.png)
+![图片填充](./Guide/img/unitControl.png)
 
 |方法|描述|接受描述|
 |idle|停止移动 但是继续挖矿/建筑 单位的默认状态|无|
@@ -46,4 +46,4 @@ Mindustry
 ubind @poly
 ```
 
-[返回](https://lanluz.github.io/Mindustry-guide/)
+[返回](https://lanluz.github.io/)
