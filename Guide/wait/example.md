@@ -8,7 +8,7 @@
         
 **方法**
 
-![Wait](./Guide/img/wait.png)
+![Wait](/Guide/img/wait.png)
 
 **sec**
 

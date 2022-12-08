@@ -10,11 +10,11 @@
 
 内部逻辑
 
-![内部逻辑](./Guide/example/getLink.png)
+![内部逻辑](/Guide/example/getLink.png)
 
 自下而上依次点击
 
-![连接](./Guide/img/getLink.png)
+![连接](/Guide/img/getLink.png)
 
 则
 

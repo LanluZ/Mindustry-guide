@@ -8,7 +8,7 @@
 
 **实例**
 
-![逻辑内部](./Guide/example/end.png)
+![逻辑内部](/Guide/example/end.png)
 
 由于第三条语句出现end
 
@@ -16,7 +16,7 @@
 
 控制权回到第一条语句
 
-![结果](./Guide/img/end.png)
+![结果](/Guide/img/end.png)
 
 **实例**
 

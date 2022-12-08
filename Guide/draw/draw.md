@@ -8,7 +8,7 @@
         
 **方法**
 
-![method](./Guide/img/draw.png)
+![method](/Guide/img/draw.png)
 
 ---
 
@@ -16,7 +16,7 @@
 
 |方法|描述|例子|结果|单独使用|
 |-- |-- |-- |-- |-- |
-|clear|用一个颜色充满屏幕|![clear](./Guide/example/clear.png)|![clear](./Guide/img/clear.png)|是|
+|clear|用一个颜色充满屏幕|![clear](/Guide/example/clear.png)|![clear](/Guide/img/clear.png)|是|
 
 - 这条语句一般放在最开始用于刷新绘图板
 - 接受参数
@@ -31,7 +31,7 @@
 
 |方法|描述|例子|结果|单独使用|
 |-- |-- |-- |-- |-- |
-|color|为下一条语句设置颜色|![color](./Guide/example/color.png)|![color](./Guide/img/color.png)|否|
+|color|为下一条语句设置颜色|![color](/Guide/example/color.png)|![color](/Guide/img/color.png)|否|
 
 - 接受参数
 
@@ -44,7 +44,7 @@
 
 |方法|描述|例子|结果|单独使用|
 |-- |-- |-- |-- |-- |
-|stroke|为下一条划线语句设置线宽(单独使用无作用)|![stroke](./Guide/example/stroke.png)|![stroke](./Guide/img/stroke.png)|否|
+|stroke|为下一条划线语句设置线宽(单独使用无作用)|![stroke](/Guide/example/stroke.png)|![stroke](/Guide/img/stroke.png)|否|
 
 - 接受参数
 
@@ -54,7 +54,7 @@
 
 |方法|描述|例子|结果|单独使用|
 |-- |-- |-- |-- |-- |
-|line|画一根线xy为起始坐标 x2y2为终止坐标|![line](./Guide/example/line.png)|![line](./Guide/img/line.png)|是|
+|line|画一根线xy为起始坐标 x2y2为终止坐标|![line](/Guide/example/line.png)|![line](/Guide/img/line.png)|是|
 
 - 接受参数
 
@@ -67,7 +67,7 @@
 
 |方法|描述|例子|结果|单独使用|
 |-- |-- |-- |-- |-- |
-|rect|矩形填充|![rect](./Guide/example/rect.png)|![rect](./Guide/img/rect.png)|是|
+|rect|矩形填充|![rect](/Guide/example/rect.png)|![rect](/Guide/img/rect.png)|是|
 
 - 接受参数
 
@@ -80,7 +80,7 @@
 
 |方法|描述|例子|结果|单独使用|
 |-- |-- |-- |-- |-- |
-|lineRect|矩形框架|![rect](./Guide/example/lineRect.png)|![rect](./Guide/img/lineRect.png)|是|
+|lineRect|矩形框架|![rect](/Guide/example/lineRect.png)|![rect](/Guide/img/lineRect.png)|是|
 
 - 接受参数
 
@@ -93,7 +93,7 @@
 
 |方法|描述|例子|结果|单独使用|
 |-- |-- |-- |-- |-- |
-|poly|正多边形填充|![ploy](./Guide/example/poly.png)|![ploy](./Guide/img/poly.png)|是|
+|poly|正多边形填充|![ploy](/Guide/example/poly.png)|![ploy](/Guide/img/poly.png)|是|
 
 - 接受参数
 
@@ -107,7 +107,7 @@
 
 |方法|描述|例子|结果|单独使用|
 |-- |-- |-- |-- |-- |
-|linePoly|多边形框架|![linePoly](./Guide/example/linePoly.png)|![linePoly](./Guide/img/linePoly.png)|是|
+|linePoly|多边形框架|![linePoly](/Guide/example/linePoly.png)|![linePoly](/Guide/img/linePoly.png)|是|
 
 - 接受参数
 
@@ -121,7 +121,7 @@
 
 |方法|描述|例子|结果|单独使用|
 |-- |-- |-- |-- |-- |
-|triangle|三角形填充|![triangle](./Guide/example/triangle.png)|![triangle](./Guide/img/triangle.png)|是|
+|triangle|三角形填充|![triangle](/Guide/example/triangle.png)|![triangle](/Guide/img/triangle.png)|是|
 
 - 接受参数
 
@@ -136,7 +136,7 @@
 
 |方法|描述|例子|结果|单独使用|
 |-- |-- |-- |-- |-- |
-|image|载入图片|![image](./Guide/example/image.png)|![image](./Guide/img/image.png)|是|
+|image|载入图片|![image](/Guide/example/image.png)|![image](/Guide/img/image.png)|是|
 
 - 载入游戏内图片
 - image参数用 "@"+游戏内物品名称表示

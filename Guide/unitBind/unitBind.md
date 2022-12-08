@@ -8,7 +8,7 @@
         
 **方法**
 
-![图片填充](./Guide/example/unitBind.png)
+![图片填充](/Guide/example/unitBind.png)
 
 绑定poly单位
 
