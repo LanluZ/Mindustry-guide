@@ -105,43 +105,43 @@ function guideOutPut(id) {
             </thead>\
             <tbody>\
             <tr>\
-            <td><a href="/Mindustry-guide/Guide/read/read.html">Read</a></td>\
-            <td><a href="/Mindustry-guide/Guide/drawFlush/drawFlush.html">Draw Flush</a></td>\
-            <td><a href="/Mindustry-guide/Guide/set/set.html">Set</a></td>\
-            <td><a href="/Mindustry-guide/Guide/end/end.html">End</a></td>\
-            <td><a href="/Mindustry-guide/Guide/unitBind/unitBind.html">Unit Bind</a></td>\
+            <td><a href="./Guide/read/read.html">Read</a></td>\
+            <td><a href="./Guide/drawFlush/drawFlush.html">Draw Flush</a></td>\
+            <td><a href="./Guide/set/set.html">Set</a></td>\
+            <td><a href="./Guide/end/end.html">End</a></td>\
+            <td><a href="./Guide/unitBind/unitBind.html">Unit Bind</a></td>\
             </tr>\
             <tr>\
-            <td><a href="/Mindustry-guide/Guide/write/write.html">Write</a></td>\
-            <td><a href="/Mindustry-guide/Guide/printFlush/printFlush.html">Print Flush</a></td>\
-            <td><a href="/Mindustry-guide/Guide/operation/operation.html">Operation</a></td>\
-            <td><a href="/Mindustry-guide/Guide/jump/jump.html">Jump</a></td>\
-            <td><a href="/Mindustry-guide/Guide/unitControl/unitControl.html">Unit Control</a></td>\
+            <td><a href="./Guide/write/write.html">Write</a></td>\
+            <td><a href="./Guide/printFlush/printFlush.html">Print Flush</a></td>\
+            <td><a href="./Guide/operation/operation.html">Operation</a></td>\
+            <td><a href="./Guide/jump/jump.html">Jump</a></td>\
+            <td><a href="./Guide/unitControl/unitControl.html">Unit Control</a></td>\
             </tr>\
             <tr>\
-            <td><a href="/Mindustry-guide/Guide/draw/draw.html">Draw</a></td>\
-            <td><a href="/Mindustry-guide/Guide/getLink/getLink.html">Get Link</a></td>\
-            <td><a href="/Mindustry-guide/Guide/wait/wait.html">Wait</a></td>\
+            <td><a href="./Guide/draw/draw.html">Draw</a></td>\
+            <td><a href="./Guide/getLink/getLink.html">Get Link</a></td>\
+            <td><a href="./Guide/wait/wait.html">Wait</a></td>\
             <td></td>\
-            <td><a href="/Mindustry-guide/Guide/unitRadar/unitRadar.html">Unit Radar</a></td>\
+            <td><a href="./Guide/unitRadar/unitRadar.html">Unit Radar</a></td>\
             </tr>\
             <tr>\
-            <td><a href="/Mindustry-guide/Guide/print/print.html">Print</a></td>\
-            <td><a href="/Mindustry-guide/Guide/control/control.html">Control</a></td>\
-            <td><a href="/Mindustry-guide/Guide/lookup/lookup.html">Lookup</a></td>\
+            <td><a href="./Guide/print/print.html">Print</a></td>\
+            <td><a href="./Guide/control/control.html">Control</a></td>\
+            <td><a href="./Guide/lookup/lookup.html">Lookup</a></td>\
             <td></td>\
-            <td><a href="/Mindustry-guide/Guide/unitLocate/unitLocate.html">Unit Locate</a></td>\
-            </tr>\
-            <tr>\
-            <td></td>\
-            <td><a href="/Mindustry-guide/Guide/radar/radar.html">Radar</a></td>\
-            <td></td>\
-            <td></td>\
-            <td></td>\
+            <td><a href="./Guide/unitLocate/unitLocate.html">Unit Locate</a></td>\
             </tr>\
             <tr>\
             <td></td>\
-            <td><a href="/Mindustry-guide/Guide/sensor/sensor.html">Sensor</a></td>\
+            <td><a href="./Guide/radar/radar.html">Radar</a></td>\
+            <td></td>\
+            <td></td>\
+            <td></td>\
+            </tr>\
+            <tr>\
+            <td></td>\
+            <td><a href="./Guide/sensor/sensor.html">Sensor</a></td>\
             <td></td>\
             <td></td>\
             <td></td>\
