@@ -16,7 +16,7 @@
 
 **开始**
 
-![001](/Mindustry-guide/example/class1/img/001.png)
+![001](/example/class1/img/001.png)
 
 1.首先建立 **Micro Processor** 和 **Message**
 
@@ -24,7 +24,7 @@
 
 3.点击  **Micro Processor** 的**画笔按钮**进入编辑界面
 
-![002](/Mindustry-guide/example/class1/img/002.png)
+![002](/example/class1/img/002.png)
 
 4.点击 **add** 添加 **print** 和 **print flush** 逻辑块
 
@@ -35,15 +35,15 @@
 
 7.查看 **message** 方块输出结果
 
-![003](/Mindustry-guide/example/class1/img/003.png)
+![003](/example/class1/img/003.png)
 
 8.输出 **null** ，很明显，我们有地方出错了
 
-![004](/Mindustry-guide/example/class1/img/004.png)
+![004](/example/class1/img/004.png)
 
 9.因为输出的是 **字符串** 所以需要在首尾加上 **双引号** 来 **引用字符串**（字符串这一点听不懂没关系，只需要记住，如果是纯文本信息要加上双引号就行了）
 
-![005](/Mindustry-guide/example/class1/img/005.png)
+![005](/example/class1/img/005.png)
 
 10.在加上 **双引号** 后，查看输出结果如图所示
 

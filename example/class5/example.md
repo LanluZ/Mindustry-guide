@@ -12,27 +12,27 @@
 
 **开始**
 
-![001](/Mindustry-guide/example/class5/img/001.png)
+![001](/example/class5/img/001.png)
 
 1. 使用 Set 定义循环变量 i
 
-![002](/Mindustry-guide/example/class5/img/002.png)
+![002](/example/class5/img/002.png)
 
 2. 使用 Operation 递增变量 i
 
-![003](/Mindustry-guide/example/class5/img/003.png)
+![003](/example/class5/img/003.png)
 
 3. 使用 Set 设置 @Counter 为 1 （意为执行到该逻辑块时跳转到第1行逻辑块）（行数以第0行开始）
 
-![004](/Mindustry-guide/example/class5/img/004.png)
+![004](/example/class5/img/004.png)
 
 4. 使用 Jump 进行判断
 
-![005](/Mindustry-guide/example/class5/img/005.png)
+![005](/example/class5/img/005.png)
 
 5. 如果小于256则继续循环，大于等于256则停止本次循环
 
-![006](/Mindustry-guide/example/class5/img/006.png)
+![006](/example/class5/img/006.png)
 
 6. 总览 
 
