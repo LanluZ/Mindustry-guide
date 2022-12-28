@@ -20,7 +20,7 @@ function details(id) {
 function guideOutPut(id) {
     switch (id) {
         case 0:
-            str = '<p><img src="/Mindustry-guide/img/logic-block.png" alt="逻辑方块"></p>\
+            str = '<p><img src="/img/logic-block.png" alt="逻辑方块"></p>\
             <ul>\
             <li>从左到右</li>\
             <li>在Mindustry中索引从0开始</li>\
