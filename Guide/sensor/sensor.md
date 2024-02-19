@@ -6,7 +6,7 @@
 
     从一个单位/建筑物获取数据
 
-![sensor](/Guide/example/sensor.png)
+![sensor](/Mindustry-guide/Guide/example/sensor.png)
 
 **语法**
 
@@ -19,17 +19,17 @@
 
 **可获取的数据**
 
-![page1](/Guide/img/page1.png)
+![page1](/Mindustry-guide/Guide/img/page1.png)
 
 如果指定这些则获取 **指定物品** 在 **这个建筑物/单位** **中** 的 **数量**
 
-![page2](/Guide/img/page2.png)
+![page2](/Mindustry-guide/Guide/img/page2.png)
 
 如果指定这些则获取 **指定液体** 在 **这个建筑物/单位** **中** 的 **数量**
 
-![page3_1](/Guide/img/page3_1.png)
+![page3_1](/Mindustry-guide/Guide/img/page3_1.png)
 
-![page3_2](/Guide/img/page3_2.png)
+![page3_2](/Mindustry-guide/Guide/img/page3_2.png)
 
 善用 Ctrl+f 快速查找到你需要的信息
 
@@ -91,4 +91,4 @@ sensor result block1 @copper
 ```
 
 
-[返回](https://lanluz.github.io/)
+[返回](https://lanluz.github.io/Mindustry-guide/)

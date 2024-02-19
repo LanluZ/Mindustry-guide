@@ -12,19 +12,19 @@
 
 **开始**
 
-![001](/example/class4/img/001.png)
+![001](/Mindustry-guide/example/class4/img/001.png)
 
 1. 使用 Set 设置循环变量 i
    
-![002](/example/class4/img/002.png)
+![002](/Mindustry-guide/example/class4/img/002.png)
 
 2. 使用 Operation 设置 i = i + 1
 
-![003](/example/class4/img/003.png)
+![003](/Mindustry-guide/example/class4/img/003.png)
 
 3. 在中间插入 jump 如果 i >= 256 则重新设置 i 的值（指向 Set）
 
-![004](/example/class4/img/004.png)
+![004](/Mindustry-guide/example/class4/img/004.png)
 
 4. 总览
 

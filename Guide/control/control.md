@@ -4,8 +4,8 @@
 
 <link rel="stylesheet" href="css/style.css" />
 <a href="#" class="scroll-to-top"></a>
-<script src="./js/jquery.min.js"></script>
-<script src="./js/index.js"></script>
+<script src="/Mindustry-guide/js/jquery.min.js"></script>
+<script src="/Mindustry-guide/js/index.js"></script>
 
 **介绍**
 
@@ -19,7 +19,7 @@
 
 介绍：控制一个建筑物开/关
 
-![enabled](/Guide/example/enabled.png)
+![enabled](/Mindustry-guide/Guide/example/enabled.png)
 
 set: enabled
 
@@ -35,7 +35,7 @@ to:  0 或者 1
 
 介绍：朝指定方向射击
 
-![shoot](/Guide/example/shoot.png)
+![shoot](/Mindustry-guide/Guide/example/shoot.png)
 
 set: shoot
 
@@ -55,7 +55,7 @@ shoot:  0 或者 1
 
 介绍：朝目标射击
 
-![shootp](/Guide/example/shootp.png)
+![shootp](/Mindustry-guide/Guide/example/shootp.png)
 
 set: shootp
 
@@ -71,7 +71,7 @@ shoot:  0 或者 1
 
 **configure**
 
-![configure](/Guide/example/configure.png)
+![configure](/Mindustry-guide/Guide/example/configure.png)
 
 介绍：配置建筑物属性
 
@@ -87,7 +87,7 @@ to: 配置名称名称
 
 **color**
 
-![illuminator](/Guide/example/illuminator.png)
+![illuminator](/Mindustry-guide/Guide/example/illuminator.png)
 
 介绍：控制照明器颜色
 
@@ -116,4 +116,4 @@ Mindustry
 ```
 
 
-[返回](https://lanluz.github.io)
+[返回](https://lanluz.github.io/Mindustry-guide/)

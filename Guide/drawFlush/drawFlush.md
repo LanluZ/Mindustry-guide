@@ -25,4 +25,4 @@ java
 
 p.s.此语句要与draw配合使用
 
-[返回](https://lanluz.github.io/)
+[返回](https://lanluz.github.io/Mindustry-guide/)

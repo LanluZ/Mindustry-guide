@@ -11,7 +11,7 @@
 
 ## 逻辑方块
 
-![逻辑方块](/img/logic-block.png)
+![逻辑方块](https://lanluz.github.io/Mindustry-guide/img/logic-block.png)
 
 - 从左到右
 - 在Mindustry中索引从0开始

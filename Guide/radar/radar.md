@@ -58,7 +58,7 @@
 **举例**
 
 内容：通过ripper捕获敌人坐标再让lancer射击
-![超出范围射击](/Guide/example/radar.png)
+![超出范围射击](/Mindustry-guide/Guide/example/radar.png)
 
 逐字翻译：
 1. 从 ripple1 获取 enemy(敌人) 选择 distance(最近的) 输出 result
@@ -67,7 +67,7 @@
 4. 控制 设置 shoot(射击) 关于 lancer1 于坐标 x y 射击开关 1(真)
 
 结果：(跨范围射击)
-![超出范围射击](/Guide/img/radar.png)
+![超出范围射击](/Mindustry-guide/Guide/img/radar.png)
 
 ---
 
@@ -86,4 +86,4 @@ Mindustry
 ```
 
 
-[返回](https://lanluz.github.io/)
+[返回](https://lanluz.github.io/Mindustry-guide/)

@@ -1,0 +1,151 @@
+/* Media Document */
+
+@media screen and (max-width: 1024px) {
+.info .info_detail {
+	margin: 10% 0 0 0;
+}
+.work .work_filter .mix {
+	width: 33%;
+}
+.career .skills .circle .circle_detail {
+	width: 46%;
+}
+.iteminfo {
+	width: 80%;
+}
+.career .skills .circle .circle_detail {
+	margin-bottom: 28px;
+}
+}
+ @media screen and (max-width: 768px) {
+.info .info_detail {
+	margin: 15% 0 0 0;
+}
+.career .heading p {
+	width: 70%;
+}
+.career .skills {
+	float: none;
+}
+.career .skills .heading p {
+	width: 75%;
+}
+.career .skills .circle .circle_detail {
+	width: 46%;
+}
+.contact .heading p {
+	width: 70%;
+}
+.contact .field .user input[type="text"] {
+	width: 100%;
+}
+.contact .field textarea {
+	width: 100%;
+}
+.contact .field input[type=submit] {
+	width: 100%;
+}
+.contact .contact_info {
+	margin: 10% 0 0 0;
+}
+.footer {
+	margin: 8% 0 0 0;
+}
+.work .work_filter .mix {
+	width: 50%;
+}
+.iteminfo {
+	width: 60%;
+}
+}
+ @media screen and (max-width: 640px) {
+.info .info_detail {
+	margin: 20% 0 0 0;
+}
+.info .info_detail h3 {
+	font-size: 35px;
+}
+.info .info_detail p {
+	font-size: 14px;
+}
+.button {
+	margin: 12% 0 0 0;
+}
+.contact .contact_info {
+	text-align: center;
+}
+.contact .contact_info .contact_sec ul li i.fa {
+	display: none;
+}
+}
+@media only screen and (max-width: 480px) {
+h1, .h1 {
+	font-size: 22px !important;
+}
+.info .info_detail {
+	margin: 12% 0 0 0;
+}
+.info .info_detail img {
+	height: 150px;
+	width: 150px;
+}
+.main-button > button {
+	top: 4px;
+}
+.work .work_filter ul.breadcrumb li {
+	font-size: 12px;
+	float: none;
+}
+.career .item h2 {
+	font-size: 18px;
+	margin-bottom: 2%;
+}
+.career .skills .circle .circle_detail {
+	width: 100%;
+}
+.career .heading p {
+	width: 94%;
+}
+.career .skills {
+	margin: 10% 0 0 0;
+}
+.career .skills .heading p {
+	width: 98%;
+}
+.work .work_filter .mix {
+	width: 100%;
+}
+.work .work_filter .mix .mix_sec .imageContainer a.overlayText {
+	padding: 35% 10px;
+}
+.work .title {
+	margin: 10% 0;
+}
+a.push_nav_brand {
+	font-size: 18px !important;
+}
+.main-button > button {
+	top: 0 !important;
+}
+.contact .contact_info {
+	margin: 13% 0 0 0;
+}
+}
+@media only screen and (max-width: 320px) {
+.info .info_detail {
+	margin: 10% 0 0 0;
+}
+.button a.btn {
+	padding: 10px 28px;
+	margin: 0 5px;
+}
+.contact .contact_info {
+	padding: 0 5%;
+}
+.contact .contact_info .contact_sec ul li span {
+	font-size: 12px;
+}
+.contact .contact_info .contact_sec ul li i.fa {
+	display: none;
+}
+}

@@ -20,7 +20,7 @@ function details(id) {
 function guideOutPut(id) {
     switch (id) {
         case 0:
-            str = '<p><img src="/img/logic-block.png" alt="逻辑方块"></p>\
+            str = '<p><img src="/Mindustry-guide/img/logic-block.png" alt="逻辑方块"></p>\
             <ul>\
             <li>从左到右</li>\
             <li>在Mindustry中索引从0开始</li>\
@@ -105,43 +105,43 @@ function guideOutPut(id) {
             </thead>\
             <tbody>\
             <tr>\
-            <td><a href="./Guide/read/read.html">Read</a></td>\
-            <td><a href="./Guide/drawFlush/drawFlush.html">Draw Flush</a></td>\
-            <td><a href="./Guide/set/set.html">Set</a></td>\
-            <td><a href="./Guide/end/end.html">End</a></td>\
-            <td><a href="./Guide/unitBind/unitBind.html">Unit Bind</a></td>\
+            <td><a href="/Mindustry-guide/Guide/read/read.html">Read</a></td>\
+            <td><a href="/Mindustry-guide/Guide/drawFlush/drawFlush.html">Draw Flush</a></td>\
+            <td><a href="/Mindustry-guide/Guide/set/set.html">Set</a></td>\
+            <td><a href="/Mindustry-guide/Guide/end/end.html">End</a></td>\
+            <td><a href="/Mindustry-guide/Guide/unitBind/unitBind.html">Unit Bind</a></td>\
             </tr>\
             <tr>\
-            <td><a href="./Guide/write/write.html">Write</a></td>\
-            <td><a href="./Guide/printFlush/printFlush.html">Print Flush</a></td>\
-            <td><a href="./Guide/operation/operation.html">Operation</a></td>\
-            <td><a href="./Guide/jump/jump.html">Jump</a></td>\
-            <td><a href="./Guide/unitControl/unitControl.html">Unit Control</a></td>\
+            <td><a href="/Mindustry-guide/Guide/write/write.html">Write</a></td>\
+            <td><a href="/Mindustry-guide/Guide/printFlush/printFlush.html">Print Flush</a></td>\
+            <td><a href="/Mindustry-guide/Guide/operation/operation.html">Operation</a></td>\
+            <td><a href="/Mindustry-guide/Guide/jump/jump.html">Jump</a></td>\
+            <td><a href="/Mindustry-guide/Guide/unitControl/unitControl.html">Unit Control</a></td>\
             </tr>\
             <tr>\
-            <td><a href="./Guide/draw/draw.html">Draw</a></td>\
-            <td><a href="./Guide/getLink/getLink.html">Get Link</a></td>\
-            <td><a href="./Guide/wait/wait.html">Wait</a></td>\
+            <td><a href="/Mindustry-guide/Guide/draw/draw.html">Draw</a></td>\
+            <td><a href="/Mindustry-guide/Guide/getLink/getLink.html">Get Link</a></td>\
+            <td><a href="/Mindustry-guide/Guide/wait/wait.html">Wait</a></td>\
             <td></td>\
-            <td><a href="./Guide/unitRadar/unitRadar.html">Unit Radar</a></td>\
+            <td><a href="/Mindustry-guide/Guide/unitRadar/unitRadar.html">Unit Radar</a></td>\
             </tr>\
             <tr>\
-            <td><a href="./Guide/print/print.html">Print</a></td>\
-            <td><a href="./Guide/control/control.html">Control</a></td>\
-            <td><a href="./Guide/lookup/lookup.html">Lookup</a></td>\
+            <td><a href="/Mindustry-guide/Guide/print/print.html">Print</a></td>\
+            <td><a href="/Mindustry-guide/Guide/control/control.html">Control</a></td>\
+            <td><a href="/Mindustry-guide/Guide/lookup/lookup.html">Lookup</a></td>\
             <td></td>\
-            <td><a href="./Guide/unitLocate/unitLocate.html">Unit Locate</a></td>\
-            </tr>\
-            <tr>\
-            <td></td>\
-            <td><a href="./Guide/radar/radar.html">Radar</a></td>\
-            <td></td>\
-            <td></td>\
-            <td></td>\
+            <td><a href="/Mindustry-guide/Guide/unitLocate/unitLocate.html">Unit Locate</a></td>\
             </tr>\
             <tr>\
             <td></td>\
-            <td><a href="./Guide/sensor/sensor.html">Sensor</a></td>\
+            <td><a href="/Mindustry-guide/Guide/radar/radar.html">Radar</a></td>\
+            <td></td>\
+            <td></td>\
+            <td></td>\
+            </tr>\
+            <tr>\
+            <td></td>\
+            <td><a href="/Mindustry-guide/Guide/sensor/sensor.html">Sensor</a></td>\
             <td></td>\
             <td></td>\
             <td></td>\
@@ -488,15 +488,8 @@ function guideOutPut(id) {
             ';
             break;
         case 5 :
-            str='\
-			<div>\
-				<a href="https://github.com/LanluZ/Mindustry-guide" id="M1">Github</a>\
-				<a href="https://github.com/Anuken/Mindustry/" id="M1" style="background-color: #af00ff;">Mindustry</a>\
-				<a href="https://github.com/MindustryGame/wiki" id="M1" style="background-color: #2ed000;">官方Wiki</a>\
-				<a href="https://github.com/Anuken/MindustryMods" id="M1" style="background-color: #da5b5b;">模组仓库</a>\
-				<a href="https://tieba.baidu.com/f?ie=utf-8&kw=mindustry&fr=search" id="M1" style="background-color: #09c5de;">百度贴吧</a>\
-			</div>\
-            ';
+            str="\
+            ";
         break;
     }
     return str;

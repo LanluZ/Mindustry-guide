@@ -8,7 +8,7 @@
         
 **方法**
 
-![图片填充](/Guide/example/unitBind.png)
+![图片填充](/Mindustry-guide/Guide/example/unitBind.png)
 
 绑定poly单位
 
@@ -29,4 +29,4 @@ Mindustry
 ubind @poly
 ```
 
-[返回](https://lanluz.github.io/)
+[返回](https://lanluz.github.io/Mindustry-guide/)
